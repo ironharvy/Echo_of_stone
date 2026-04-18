@@ -87,8 +87,6 @@ He covered them with a cloth.
 
 He went home.
 
-He did not know — could not have known, would not have guessed — that the woman who would one day inhabit this body would wake without hands. That she would stand, conscious and afraid, in a form that could not reach, could not gesture, could not cover herself. That the artistic decision he had just made, alone in a lab at midnight, choosing beauty over completion, would become another person's constraint.
-
 He slept well that night. The best he had slept in weeks.
 
-The statue stood in the dark, armless, and was, for the first time, exactly what she was meant to be.
+The statue stood in the dark, armless, and was, for the first time, exactly what it was meant to be.

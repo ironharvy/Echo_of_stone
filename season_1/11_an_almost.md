@@ -17,7 +17,7 @@ They worked adjacent for a whole autumn semester without being friends, exactly.
 
 She wore a thin silver bracelet on her left wrist. A single red bead. He noticed, without thinking about why he noticed, that it was almost the bracelet he had watched on Julia's wrist for seven years and was not.
 
-In March she asked him if he wanted to see something, and he said yes before he had decided to, and they walked to a small gallery two stops up the tram line where a woman Katya knew was showing drawings — pencil, mostly, large, ungentle. They walked around the room without talking. Katya stopped in front of one drawing — a face with half the features erased — and stood there for a full minute, which was long enough that Alexei felt, obscurely, that the minute was also addressed to him. He did not look at her. He looked at the drawing. He could feel her in his peripheral vision the way one feels weather.
+In March she asked him if he wanted to see something, and he said yes before he had decided to, and they walked to a small gallery two bus stops away where a woman Katya knew was showing drawings — pencil, mostly, large, ungentle. They walked around the room without talking. Katya stopped in front of one drawing — a face with half the features erased — and stood there for a full minute, which was long enough that Alexei felt, obscurely, that the minute was also addressed to him. He did not look at her. He looked at the drawing. He could feel her in his peripheral vision the way one feels weather.
 
 Afterward they walked along the embankment. It was cold and the light was going that specific bluish color the Moscow River gets in late winter when it is pretending to be ice without yet committing. She walked with her hands in her pockets, and he walked with his, and there was a length of silence that was not awkward, which for Alexei was almost a new weather system.
 
@@ -67,7 +67,7 @@ She smiled at him. It was a small, sad, practical smile — the smile of a perso
 
 "It's fine," she said. "Go find Dmitri."
 
-He turned and walked toward the tram.
+He turned and walked toward the bus stop.
 
 Ten steps along, he half-looked back, and she was still standing there, watching the river. Her bracelet caught a thin slip of light as she moved her hand in her pocket.
 
@@ -77,7 +77,7 @@ The sentence arrived in his head whole, in Julia's voice, at a volume he had not
 
 He kept walking.
 
-On the tram home he sat by the window with his face against the cold glass and did not look at the other passengers, and he thought, in the quiet mechanical tone of his morning self: *I will call her. On Monday I will call her. I will say I was tired. I will say I would like to try again.*
+On the bus home he sat by the window with his face against the cold glass and did not look at the other passengers, and he thought, in the quiet mechanical tone of his morning self: *I will call her. On Monday I will call her. I will say I was tired. I will say I would like to try again.*
 
 He did not call her on Monday.
 

@@ -16,7 +16,7 @@ The idea did not arrive whole. It arrived the way most real ideas arrive — as 
 
 The first half came on a Tuesday.
 
-The robotics lab had a whiteboard that nobody cleaned. Three semesters of diagrams lived on it in overlapping marker, a palimpsest of ambitions that had either graduated or given up. Alexei stood in front of it with a fresh marker and drew a schematic — a joint articulation system, shoulder-elbow-wrist, three degrees of freedom per joint, nine servos total. It was elegant. It was the kind of problem that, once drawn, produced its own momentum. He labeled each joint with torque values and drew the control loop in the margin and stepped back and looked at it and felt, for the first time since arriving at Dubna, that he was inside a problem that was exactly his size.
+The robotics lab had a whiteboard that nobody cleaned. Three semesters of diagrams lived on it in overlapping marker, a palimpsest of ambitions that had either graduated or given up. Alexei stood in front of it with a fresh marker and drew a schematic — a joint articulation system, shoulder-elbow-wrist, three degrees of freedom per joint, nine servos for the arm. It was elegant. It was the kind of problem that, once drawn, produced its own momentum. He labeled each joint with torque values and drew the control loop in the margin and stepped back and looked at it and felt, for the first time since arriving at Dubna, that he was inside a problem that was exactly his size.
 
 He did not draw a body around it. He drew the mechanism. The mechanism was the point.
 

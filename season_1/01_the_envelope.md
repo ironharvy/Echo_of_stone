@@ -18,9 +18,11 @@ Passes: draft (beats) -> expansion (domestic texture, mother as offstage presenc
 
 The envelope came on a Thursday, which Alexei considered a cowardly day for an envelope to come. Thursdays were for nothing. Bills came on Mondays. Letters from his aunt came on Fridays. A Thursday envelope had no cover story.
 
-His mother had put it on the kitchen table, centered exactly, the way she set down a plate she suspected was too hot. She did not say anything about it. She asked if he wanted tea. He said yes. She made tea. The envelope stayed in the middle of the table like an extra place setting no one had agreed to.
+His mother had put it on the kitchen table, centered exactly, the way she set down a plate she suspected was too hot. The kitchen smelled the way it always did in the late afternoon — boiled potatoes and the ghost of whatever spice she had tried once in 1994 and never bought again but which had somehow stained the curtains permanently. The tap dripped on its own schedule. A calendar on the wall still showed March, though it was April; no one had turned it, as if the month might reconsider.
 
-Dmitri arrived at five because Dmitri always arrived at five, the way some appliances came on at five, and he walked into the kitchen already talking.
+She did not say anything about the envelope. She asked if he wanted tea. He said yes. She made tea. The envelope stayed in the middle of the table like an extra place setting no one had agreed to.
+
+Dmitri arrived at five because Dmitri always arrived at five, the way some appliances came on at five. Through the window, the light had turned the thin grey that meant the afternoon had given up pretending it would improve. Dmitri walked into the kitchen already talking, his jacket unzipped, rain still beaded on his shoulders from something that had apparently happened between his building and theirs.
 
 "—told her, fine, but if you want the *good* melons you have to go on Tuesday, and she looked at me like—" He stopped. Looked at the table. Looked at Alexei. Looked at the table again.
 
@@ -52,7 +54,7 @@ A silence. From the living room the television said something enthusiastic about
 
 "He's fine." Beat. "Mostly."
 
-Alexei's mother came in from the hallway, saw the two of them at the table, saw the envelope, saw that nothing had changed, and went back out again without saying anything. This was, Alexei understood, her form of participation. She would ask later, once, and accept whatever answer he gave.
+Alexei's mother came in from the hallway carrying a dish towel over one shoulder that smelled faintly of bleach. She saw the two of them at the table, saw the envelope, saw that nothing had changed, and went back out again without saying anything. This was, Alexei understood, her form of participation. She would ask later, once, and accept whatever answer he gave.
 
 Dmitri drank his tea. He made the face he always made at Alexei's mother's tea, which was too strong because she always forgot she had already put the leaves in and put more in. He did not mention this. It was a tea Dmitri had been drinking, and complaining about privately, since they were eleven.
 
@@ -102,7 +104,7 @@ Dmitri stood, stretched, and looked at the envelope one last time — not with p
 
 He let himself out. The door did that small double-click it always did.
 
-Alexei sat a while longer. The television in the other room moved on to something about weather. His tea had gone the temperature of a room.
+Alexei sat a while longer. The kitchen was the kind of quiet that only happens after someone leaves — not silence exactly, but the room remembering it didn't need to perform. The refrigerator hummed. The tap offered its opinion. The television in the other room moved on to something about weather. His tea had gone the temperature of a room.
 
 He picked up the envelope, finally, and put it in the drawer of the kitchen sideboard — the second drawer, where they kept things that were neither important nor disposable, batteries and warranty cards and a thin deck of playing cards from a hotel nobody remembered staying at.
 

@@ -111,6 +111,6 @@ On the bus back, Alexei held the slip of paper Grisha had given him in his coat 
 
 They went for lunch. They had soup. The soup was better than the beef had been. The bar, as Dmitri had pointed out before, was on the floor.
 
-By the end of the week they had eight of their twelve servos. By the end of the next week they had the other four, which Alexei had collected in a stairwell in a building without a name from a man who introduced himself only as *Lev* and did not speak more than was necessary.
+By the end of the week they had eight of their twelve servos. By the end of the next week they had the other four, which Alexei had collected from Volodya at the polytechnic — a man who did not speak more than was necessary and who handed over the motors in a plastic bag as if returning borrowed tools.
 
 The hand, still unbuilt, still living on the right-hand page of Alexei's notebook, began — at the edges of his day, in the gaps between other thoughts — to have fingers.

@@ -66,7 +66,7 @@ Alexei said: "Dmitri."
 
 "I'm sorry about Valera."
 
-Dmitri looked at him. It was, Alexei thought later, the longest Dmitri had looked at him in the four years they had known each other. It was not an angry look. It was not a grateful look. It was the look of a man noticing, in passing, that another man was, in fact, present.
+Dmitri looked at him. It was, Alexei thought later, the longest Dmitri had looked at him in all their years since they were eleven. It was not an angry look. It was not a grateful look. It was the look of a man noticing, in passing, that another man was, in fact, present.
 
 "Yeah," Dmitri said. "I know you are."
 

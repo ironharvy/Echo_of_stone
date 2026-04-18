@@ -14,7 +14,7 @@ can't decide whether it's on.
 
 The apartment belonged to somebody's older sister who was not there. Twenty-odd students were packed into three small rooms, which meant that in the kitchen you were in the conversation even if you did not intend to be, and in the hallway you were in the coats.
 
-The coats had been piled on the floor by the door because the rack had fallen off the wall sometime in the second hour. They steamed faintly, a wet-wool-and-sleet damp mixing with the vodka spilled on them and the onion somebody was frying two rooms away, and together the smell was the exact smell of Russian winter conversation — coats sweating into themselves, kitchens frying, people becoming briefly honest.
+The coats had been piled on the floor by the door because the rack had fallen off the wall sometime in the second hour. They steamed faintly, a wet-wool-and-sleet damp mixing with the vodka spilled on them and the onion somebody was frying two rooms away, and together the smell was the exact smell of Russian late-autumn conversation — coats sweating into themselves, kitchens frying, people becoming briefly honest.
 
 A water pipe behind the hallway wall — hidden by a thin wooden panel that hid nothing — kept knocking every eight or nine seconds, irregularly enough that you could not stop waiting for the next one. It did not commit to flowing. It did not commit to stopping. It occasionally groaned like someone being reminded of a debt.
 

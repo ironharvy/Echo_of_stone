@@ -19,7 +19,7 @@ She wore a thin silver bracelet on her left wrist. A single red bead. He noticed
 
 In March she asked him if he wanted to see something, and he said yes before he had decided to, and they walked to a small gallery two bus stops away where a woman Katya knew was showing drawings — pencil, mostly, large, ungentle. They walked around the room without talking. Katya stopped in front of one drawing — a face with half the features erased — and stood there for a full minute, which was long enough that Alexei felt, obscurely, that the minute was also addressed to him. He did not look at her. He looked at the drawing. He could feel her in his peripheral vision the way one feels weather.
 
-Afterward they walked along the embankment. It was cold and the light was going that specific bluish color the Moscow River gets in late winter when it is pretending to be ice without yet committing. She walked with her hands in her pockets, and he walked with his, and there was a length of silence that was not awkward, which for Alexei was almost a new weather system.
+Afterward they walked along the embankment. It was cold and the light was going that specific bluish color the Volga gets in late winter when it is pretending to be ice without yet committing. She walked with her hands in her pockets, and he walked with his, and there was a length of silence that was not awkward, which for Alexei was almost a new weather system.
 
 "You don't talk much," she said, not as a complaint.
 

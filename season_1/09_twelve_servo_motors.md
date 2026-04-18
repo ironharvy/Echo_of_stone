@@ -59,27 +59,25 @@ A longer pause.
 
 He set down his tea. He stood. He went to one of the middle shelves and pulled, from behind a column of unlabeled boxes, a single plastic crate.
 
-"Eight of these in here," he said. "Same spec. Better than what you'll buy new. Refurbished from the metro. Moscow metro had a retrofit two years ago, I got a pallet. The other four — I don't have in stock. I know a guy."
+"Eight of these in here," he said. "Same spec. Better than what you'll buy new. Refurbished from the metro. Moscow metro had a retrofit two years ago, I got a pallet. The other four — I don't have in stock. I know a guy at the polytechnic who's clearing out a lab."
 
-"What kind of guy," said Dmitri, pleasantly.
+"Can we just order them through the university?" Alexei asked.
 
-"The kind with four servo motors and no receipts."
+Grisha looked at him the way a plumber looks at someone who has asked whether water flows uphill.
 
-"Good," Dmitri said. "They'll give us ten years for this motor."
+"You can," he said. "You fill out the form. The form goes to procurement. Procurement sends it to the budget office. The budget office loses it. You fill out the form again. They find the first one. Now there are two forms and they don't match. Four months later you get a letter saying the vendor changed and the specs are different. You start over. By then you've graduated."
 
-"Six years," said Grisha, without missing a beat. "It's a small motor. For ten years you need a generator."
+"So—"
 
-He wrote something on a slip of paper. He handed it to Alexei.
+"So I'll call Volodya. He'll sell them to you for what he paid, maybe less — he needs the shelf space. Bring cash, though. He doesn't have a card machine."
 
-"Go here Tuesday at four. Don't bring him," nodding at Dmitri, "he's loud. Bring cash."
+"How much."
 
-"How much cash."
+"A hundred each, maybe one-twenty. Student motors. Nobody wants them."
 
-"Enough. You'll know when you see him."
+Dmitri leaned toward Alexei. "We are cutting through bureaucracy," he said, with the solemnity of a man narrating his own heist film. "This is practically civil disobedience."
 
-"That's not—"
-
-"It is the answer. Tuesday. Four. Cash."
+"This is shopping," Grisha said.
 
 They paid for the metro servos and for a box of miscellaneous bearings that Alexei, on instinct, had selected because they were the right size and also because Grisha, watching him choose them, had looked very faintly approving, and approval from Grisha, Alexei intuited, had a currency of its own.
 

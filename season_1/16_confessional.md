@@ -18,7 +18,7 @@ The two lights met on the statue's left shoulder at about the collarbone. Below 
 
 The lab smelled, at this hour, like solder flux and cold concrete and the ghost of the coffee Alexei had made at eleven and had not drunk because he had forgotten it existed. The transformer in the wall — the same one that had hummed through every night session since second year — was humming. It hummed at a frequency that was, Alexei had once measured, fifty hertz plus a slight waver that drifted up by about one hertz every forty minutes and then corrected itself. He had never found out why. He suspected the transformer was alive in the way that old machines are alive: not sentient, but persistent, which was sometimes hard to tell apart.
 
-The radiator in the corridor — different building, same brand, same vintage — was tapping. It had followed him here, or one like it had. It no longer mattered whether it was the same radiator. They were all the same radiator. Russia was one radiator and it tapped.
+The pipe in the corridor — different building, same gauge, same vintage — was tapping. It had followed him here, or one like it had. It no longer mattered whether it was the same pipe. They were all the same pipe. Russia was one pipe and it tapped.
 
 Alexei sat on the floor of the lab, his back against the bench, his legs out in front of him, and looked at the statue.
 
@@ -62,7 +62,7 @@ Somewhere in the building a door closed. Not nearby. Several floors away. The so
 
 He didn't finish.
 
-The statue stood in the two-toned light, head turned, shoulders flowing into air, and did not offer an opinion. The sensor array in her skull cavity recorded ambient temperature (fourteen degrees), ambient sound (the transformer, the radiator, the intermittent irregular percussion of a man shifting his weight on a concrete floor), and light levels (low, mixed spectrum). The data went to the host. The host logged it. Nobody read the log.
+The statue stood in the two-toned light, head turned, shoulders flowing into air, and did not offer an opinion. The sensor array in her skull cavity recorded ambient temperature (fourteen degrees), ambient sound (the transformer, the pipe, the intermittent irregular percussion of a man shifting his weight on a concrete floor), and light levels (low, mixed spectrum). The data went to the host. The host logged it. Nobody read the log.
 
 "Anyway," Alexei said. "Good night."
 
@@ -76,6 +76,6 @@ The sensors continued to report.
 
 The host continued to receive.
 
-Nobody was listening.
+The microphones had not been connected yet.
 
-Not yet.
+Nobody was listening.

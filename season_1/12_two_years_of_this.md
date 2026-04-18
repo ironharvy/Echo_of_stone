@@ -7,8 +7,8 @@ curve — melancholy compression, time-skip grief without a death;
 drawer habit recurs on both sides without Alexei noticing; statue
 iterates in background. Random detail TRIGGERED — category:
 atmospheric (sound/smell/texture). Detail: the dorm corridor
-radiator that taps irregularly every night through the second
-winter — a through-line callback to the party radiator in #4;
+water pipe that taps irregularly every night through the second
+winter — a through-line callback to the party pipe in #4;
 the building itself as an unreliable pulse. Vignette structure.
 No dialogue beyond a few lines.
 -->
@@ -19,7 +19,7 @@ Dmitri came back from the summer with a haircut that Dmitri's mother would later
 
 Winter of the second year.
 
-The corridor radiator, the long cast-iron one outside the shared bathroom, began tapping at night. It was not a steady tap. It was the uncertain arrhythmic tap of a radiator that had decided to be alive but had not decided about when. Three beats, a pause, two beats, nothing for a minute, a single long one. The first week everyone complained. The second week everyone stopped complaining, because nothing could be done and complaining without result had its own fatigue. By the third week it had become, for Alexei, the sound of the building deciding whether it still wanted to exist. He fell asleep to it. He woke up to it. He stopped hearing it in the way one stops hearing one's own breath.
+The corridor pipe, the long exposed one that ran along the ceiling outside the shared bathroom, began tapping at night. It was not a steady tap. It was the uncertain arrhythmic tap of a pipe that had decided to be alive but had not decided about when. Three beats, a pause, two beats, nothing for a minute, a single long one. The first week everyone complained. The second week everyone stopped complaining, because nothing could be done and complaining without result had its own fatigue. By the third week it had become, for Alexei, the sound of the building deciding whether it still wanted to exist. He fell asleep to it. He woke up to it. He stopped hearing it in the way one stops hearing one's own breath.
 
 He heard it later, though, in silence, as a kind of absence.
 
@@ -43,6 +43,8 @@ Autumn of the third year.
 
 The statue had hands now. Both of them. Every joint articulated. He tested the articulation weekly, and weekly the hands moved, and weekly he stood back and looked at the hands and did not know whether he liked them. Morning Alexei thought they were slightly too mechanical. Evening Alexei thought they were slightly too soft. Both Alexeis had a point. Neither could convince the other, because neither knew the other was in the argument.
 
+Everyone who saw it called it something different. Grisha, delivering the last of the bearings, called it "the sculpture." Shestakova, passing the open lab door one afternoon, paused and said, "How is the figure coming along." Burov, in a corridor, referred to it as "your thing." Alexei corrected each of them. It was a robot. It had twelve servo motors and a control loop. Nobody remembered the correction the next time they saw it.
+
 Winter of the third year.
 
 A girl in 318 moved out without finishing the semester. Nobody said why. The dorm accepted a loss and closed around it the way dorms do.
@@ -61,7 +63,7 @@ Or he had not, and the difference was that he now had the grace to know which pa
 
 Summer of the third year.
 
-The radiator tapped, even in summer, once in a while, uselessly.
+The pipe tapped, even in summer, once in a while, uselessly.
 
 He heard it in the dorm and in the lab and, sometimes, even at home when he visited his mother. He suspected he was bringing it with him.
 

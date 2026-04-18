@@ -42,11 +42,11 @@ Dmitri sat. He picked up the envelope without asking, weighed it in his palm as 
 
 "Dmitri."
 
-"You know what my cousin said about Chechnya?" Dmitri leaned back. The chair complained. "Bring spare pants. Not for the shit — for when they shoot your balls off and you need something to cry into."
+"You know what my cousin said when he came back?" Dmitri leaned back. The chair complained. "He said the worst part wasn't what you'd think. The worst part was that after a while you stop flinching. And then you come home and you can't start again."
 
 A silence. From the living room the television said something enthusiastic about tomatoes.
 
-"He thought it was funny," Dmitri added.
+"He thought it was a joke," Dmitri added.
 
 "Is he—"
 

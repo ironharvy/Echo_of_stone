@@ -39,7 +39,11 @@ He was satisfied with this explanation. He did not examine it further.
 
 Dmitri came by on Sundays with food. He stood in the doorway and ate a sandwich and made observations.
 
-"It looks different every time I see it."
+"Nice statue."
+
+"It's a robot."
+
+"Sure." Dmitri took a bite. "Your robot looks different every time I see it."
 
 "It's a work in progress."
 

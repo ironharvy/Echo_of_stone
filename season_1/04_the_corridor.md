@@ -8,7 +8,7 @@ setup: Mikhail's first unsettling line → payoff at #17 exit; easter egg
 two men arriving at the same idea from opposite ends).
 Random detail TRIGGERED — category: atmospheric (sounds/smells/textures).
 Detail: the wet-wool-and-vodka-and-frying-something smell of a coat pile
-thawing in a hallway, combined with the arrhythmic clank of a radiator that
+thawing in a hallway, combined with the arrhythmic knock of a water pipe that
 can't decide whether it's on.
 -->
 
@@ -16,7 +16,7 @@ The apartment belonged to somebody's older sister who was not there. Twenty-odd 
 
 The coats had been piled on the floor by the door because the rack had fallen off the wall sometime in the second hour. They steamed faintly, a wet-wool-and-sleet damp mixing with the vodka spilled on them and the onion somebody was frying two rooms away, and together the smell was the exact smell of Russian winter conversation — coats sweating into themselves, kitchens frying, people becoming briefly honest.
 
-A radiator in the hallway kept clanking every eight or nine seconds, irregularly enough that you could not stop waiting for the next one. It did not commit to being on. It did not commit to being off. It occasionally groaned like someone being reminded of a debt.
+A water pipe behind the hallway wall — hidden by a thin wooden panel that hid nothing — kept knocking every eight or nine seconds, irregularly enough that you could not stop waiting for the next one. It did not commit to flowing. It did not commit to stopping. It occasionally groaned like someone being reminded of a debt.
 
 Alexei was standing near the coats because standing near the coats was the closest thing to standing outside. Dmitri was in the kitchen laughing loudly at something that was, Alexei could tell from the rhythm of the laughter, not actually funny.
 
@@ -46,7 +46,7 @@ Alexei did not know what to say to that. Mikhail did not appear to require that 
 
 "We keep acting like *me* is a body."
 
-The radiator clanked.
+The pipe knocked.
 
 "It's not," Mikhail said. "It's a pattern. The body is just what the pattern runs on. A kind of — substrate." He said the word like he was trying it out. "And patterns, Alyosha. Patterns can move."
 
@@ -64,7 +64,7 @@ Alexei looked at him.
 
 "I said usage. It's a hypothetical Julia."
 
-The radiator clanked.
+The pipe knocked.
 
 "I have to go find Dmitri," Alexei said.
 
@@ -96,6 +96,6 @@ Later, walking back to the dorm with Dmitri, he said, too casually: "Who is Mikh
 
 "Sorry. He does that. Don't take it home with you."
 
-But Alexei had already taken it home with him. It was in his coat, in the cold of his hands, in the clank of the radiator he could still hear three streets away even though he could not, because the radiator was not his; he was bringing it with him. That, too, was a pattern moving to a new substrate.
+But Alexei had already taken it home with him. It was in his coat, in the cold of his hands, in the knock of the pipe he could still hear three streets away even though he could not, because the pipe was not his; he was bringing it with him. That, too, was a pattern moving to a new substrate.
 
 He did not say this to Dmitri. Dmitri would have told him to eat more.

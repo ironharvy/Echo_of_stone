@@ -20,7 +20,7 @@ The lab smelled, at this hour, like solder flux and cold concrete and the ghost 
 
 The pipe in the corridor — different building, same gauge, same vintage — was tapping. It had followed him here, or one like it had. It no longer mattered whether it was the same pipe. They were all the same pipe. Russia was one pipe and it tapped.
 
-Alexei sat on the floor of the lab, his back against the bench, his legs out in front of him, and looked at the statue.
+Alexei sat on the floor of the lab, his back against the bench, his legs out in front of him. The concrete was cold through his jeans in a way that was not unpleasant — it was the cold of something solid and honest, something that had no opinion about him. He looked at the statue.
 
 She was, in this light, very beautiful. She was beautiful in the way that things are beautiful when nobody is performing beauty for anyone — the beauty of a structure holding its shape without applause. Her head was turned slightly to the left. Her shoulders flowed into nothing. She stood on both feet, weight distributed, balance held, sensors reporting to a host process that nobody was monitoring at this hour.
 
@@ -68,7 +68,7 @@ The statue stood in the two-toned light, head turned, shoulders flowing into air
 
 He did not move for another twenty minutes.
 
-Then he turned off the desk lamp and left and walked home through streets that were empty in the way that streets at three in the morning are empty — not abandoned, just paused, as if the city had set itself down mid-sentence and would pick itself back up at six.
+Then he turned off the desk lamp and left. The cold outside the building was a different cold — sharper, moving, the kind that finds the gaps in your collar and the spaces between your fingers. He walked home through streets that were empty in the way that streets at three in the morning are empty — not abandoned, just paused, as if the city had set itself down mid-sentence and would pick itself back up at six.
 
 In the lab, in the dark, the statue stood.
 

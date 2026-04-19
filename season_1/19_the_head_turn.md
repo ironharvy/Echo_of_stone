@@ -14,7 +14,7 @@ No random detail.
 
 The defense was in nine days. Alexei ran the test on a Saturday because Saturdays were when the building was empty and the JINR compute was idle and nobody would walk in and ask what he was doing.
 
-He booted the system at seven in the morning. Coffee from the machine in the hallway — not good coffee, but coffee that had the decency to be hot. He connected the laptop, loaded the choreography sequence he had written the week before, and ran the diagnostics.
+He booted the system at seven in the morning. The lab at this hour had a held-breath quality — no keyboards, no voices, no test motors whining from other bays. Just the transformer and the window light and the faint smell of yesterday's solder still hanging in the air. Coffee from the machine in the hallway — not good coffee, but coffee that had the decency to be hot. He connected the laptop, loaded the choreography sequence he had written the week before, and ran the diagnostics.
 
 Everything checked. Servos nominal. Balance loop stable. Sensor fusion running on the remote host at full rate. The statue stood in the corner of the lab, head slightly turned, weight on both feet, and waited.
 
@@ -23,6 +23,8 @@ Everything checked. Servos nominal. Balance loop stable. Sensor fusion running o
 He ran the sequence.
 
 The statue moved.
+
+The servos made a sound — not loud, not mechanical exactly, more like the sound of a joint deciding. A quiet sequential articulation, each motor engaging a fraction of a second after the last, producing a ripple of small clicks that traveled from the neck down through the torso.
 
 It was — he had to admit, watching it — good. The head turned smoothly, fifteen degrees left, fifteen degrees right, returning to center. The torso followed with a two-hundred-millisecond delay that gave the motion a naturalistic quality he had not entirely planned for but would certainly take credit for. The hips adjusted. The weight shifted from center to left foot and back. The balance held.
 
@@ -70,7 +72,7 @@ In the dark, with only the window light, the statue was a silhouette. Head, shou
 
 He left.
 
-On the walk home, in the thin Saturday light, he told himself that the feeling was fatigue. Nine days before a defense. Not enough sleep. The body produces feelings the mind did not order; this was one of them. He had tested the statue and the statue had passed and the test was good and the data was clean and there was nothing in the data that warranted the feeling.
+On the walk home, in the thin Saturday light — the campus empty, the paths his alone, the birches standing in their rows like they were waiting to be told what season it was — he told himself that the feeling was fatigue. Nine days before a defense. Not enough sleep. The body produces feelings the mind did not order; this was one of them. He had tested the statue and the statue had passed and the test was good and the data was clean and there was nothing in the data that warranted the feeling.
 
 He was right about the data.
 

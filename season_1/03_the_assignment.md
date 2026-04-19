@@ -104,4 +104,4 @@ They walked back toward the dorm in a light cold rain that had turned the concre
 
 Somewhere on the network, in a log nobody would ever look at, the route the judge's packets had taken that morning was preserved, routed through two student terminals on a subnet that should not, strictly speaking, have been able to talk to each other. The subnet connection had been set up by a different student three years earlier and never taken down.
 
-Alexei did not think about that. There was no reason, yet, to think about it.
+Alexei did not think about that. There was no reason, to think about it.

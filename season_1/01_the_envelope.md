@@ -16,9 +16,9 @@ Random detail: not triggered (roll skipped this chapter)
 Passes: draft (beats) -> expansion (domestic texture, mother as offstage presence, drawer seed)
 -->
 
-The envelope came on a Thursday, which Alexei considered a cowardly day for an envelope to come. Thursdays were for nothing. Bills came on Mondays. Letters from his aunt came on Fridays. A Thursday envelope had no cover story.
+The *povestka* had not arrived in the mail. Mail in their building was a collective fiction; the metal boxes downstairs hung open like broken jaws, receiving ad circulars and utility bills on no predictable schedule. Instead, his mother had found the envelope wedged into the doorframe when she came home from the bakery.
 
-His mother had put it on the kitchen table, centered exactly, the way she set down a plate she suspected was too hot. The kitchen smelled the way it always did in the late afternoon — boiled potatoes and the ghost of whatever spice she had tried once in 1994 and never bought again but which had somehow stained the curtains permanently. The tap dripped on its own schedule. A calendar on the wall still showed March, though it was April; no one had turned it, as if the month might reconsider.
+She had brought it inside and put it on the kitchen table, centered exactly, the way she set down a plate she suspected was too hot. The khrushchyovka kitchen smelled the way it always did in the late afternoon — boiled potatoes, damp wool from the radiator, and the ghost of whatever spice she had tried once in 1994 and never bought again but which had somehow stained the curtains permanently. The tap dripped on its own schedule. A calendar on the wall still showed March, though it was April; no one had turned it, as if the month might reconsider.
 
 She did not say anything about the envelope. She asked if he wanted tea. He said yes. She made tea. The envelope stayed in the middle of the table like an extra place setting no one had agreed to.
 
@@ -36,15 +36,15 @@ Dmitri arrived at five because Dmitri always arrived at five, the way some appli
 
 Dmitri sat. He picked up the envelope without asking, weighed it in his palm as if postage could tell you anything, and set it back down exactly where it had been.
 
-"Could be desk work," he said. "Intelligence."
+"Could be a mistake," he said. "Or logistics. Rear guard."
 
-"No one gets desk work."
+"Nobody goes to the rear guard, Dima."
 
-"No one *you* know gets desk work. That's a sampling problem."
+"No one *you* know goes to the rear guard. That's a sampling problem."
 
-"Dmitri."
+"It's Chechnya. They don't need sampling. They need meat."
 
-"You know what my cousin said when he came back?" Dmitri leaned back. The chair complained. "He said the worst part wasn't what you'd think. The worst part was that after a while you stop flinching. And then you come home and you can't start again."
+"You know what my cousin said when he came back?" Dmitri leaned back. The chair complained. "He said the worst part wasn't what you'd think. The worst part was that you get used to sleeping anywhere. And then you come back and your own bed feels too soft to survive."
 
 A silence. From the living room the television said something enthusiastic about tomatoes.
 
@@ -52,11 +52,11 @@ A silence. From the living room the television said something enthusiastic about
 
 "Is he—"
 
-"He's fine." Beat. "Mostly."
+"He still has both his legs, if that's what you're asking. Beyond that, I don't ask."
 
 Alexei's mother came in from the hallway carrying a dish towel over one shoulder that smelled faintly of bleach. She saw the two of them at the table, saw the envelope, saw that nothing had changed, and went back out again without saying anything. This was, Alexei understood, her form of participation. She would ask later, once, and accept whatever answer he gave.
 
-Dmitri drank his tea. He made the face he always made at Alexei's mother's tea, which was too strong because she always forgot she had already put the leaves in and put more in. He did not mention this. It was a tea Dmitri had been drinking, and complaining about privately, since they were eleven.
+Dmitri drank his tea. He made the face he always made at Alexei's mother's tea, poured from a small porcelain teapot that always had too much *zavarka* in it, turning the water nearly black and aggressively bitter. He did not mention this. It was a tea Dmitri had been drinking, and complaining about privately, since they were eleven.
 
 "So," Dmitri said. "Dubna?"
 
@@ -82,7 +82,7 @@ Dmitri nodded as if it had been a promise.
 
 From the living room, his father said something to the television. The television did not answer.
 
-"Right," said Dmitri. "So. Dubna. You're going to have to learn to cook something that isn't eggs."
+"Right," said Dmitri. "So. Dubna. You're going to have to learn to cook something that isn't eggs, or you're going to starve before they can shoot you."
 
 "I cook other things."
 
@@ -94,7 +94,7 @@ From the living room, his father said something to the television. The televisio
 
 "I don't close your drawers."
 
-"You will."
+"You do. The moment someone leaves them open half a centimeter. You act like the gap is going to let the heat out of the universe."
 
 Alexei almost smiled. It did not make it all the way to his mouth, but it moved something in the region.
 
@@ -106,8 +106,8 @@ He let himself out. The door did that small double-click it always did.
 
 Alexei sat a while longer. The kitchen was the kind of quiet that only happens after someone leaves — not silence exactly, but the room remembering it didn't need to perform. The refrigerator hummed. The tap offered its opinion. The television in the other room moved on to something about weather. His tea had gone the temperature of a room.
 
-He picked up the envelope, finally, and put it in the drawer of the kitchen sideboard — the second drawer, where they kept things that were neither important nor disposable, batteries and warranty cards and a thin deck of playing cards from a hotel nobody remembered staying at.
+He picked up the envelope, finally, and put it in the drawer of the kitchen sideboard — the bottom drawer, under the heavy iron skillet they rarely used, where they kept things that were better forgotten until absolutely necessary.
 
-He closed the drawer. He checked that it was fully closed. He pressed it shut with the flat of his hand a second time, for no reason he could have named.
+He closed the drawer. He checked that it was fully closed. He pressed it shut with the flat of his hand a second time, for no reason he could have named, sealing the gap entirely.
 
 Then he went to help his mother with dinner.

@@ -19,9 +19,9 @@ Not the mechanism — the mechanism was done, had been done for weeks, was argua
 
 The problem was the rest of it.
 
-He had been, for the last month, trying to complete the statue's full articulation — shoulders, elbows, wrists, hands — to demonstrate the range of motion the control system could achieve. The defense needed something impressive. Impressive meant complete. Complete meant the full figure, moving, head to fingertip, every joint under control. And the full figure, moving, was drowning him. There were too many degrees of freedom. The balance system fought the gesture system. Every arm position shifted the center of mass and the legs had to compensate and the legs were not, he had to admit, as good as the arms. He had been sleeping in the lab four nights in five and the statue still looked, when she moved, like a woman walking through a strong wind she did not believe in.
+He had been, for the last month, trying to complete the statue's full articulation — shoulders, elbows, wrists, hands — to demonstrate the range of motion the control system could achieve. The defense needed something impressive. Impressive meant complete. Complete meant the full figure, moving, head to fingertip, every joint under control. And the full figure, moving, was drowning him. There were too many degrees of freedom. The balance system fought the gesture system. Every arm position shifted the center of mass and the legs had to compensate and the legs were not, he had to admit, as good as the arms. He had been sleeping in the lab four nights in five — the bench cluttered now with wrappers and cable ties and half-drunk teas gone cold, the corner looking less like a workspace and more like something a person had been living in without admitting it — and the statue still looked, when she moved, like a woman walking through a strong wind she did not believe in.
 
-Shestakova came by on a Tuesday.
+Shestakova came by on a Tuesday, late afternoon, when the light through the lab windows had gone the color of tea and the building was in its quietest hour — most students gone, the corridor empty, just the hum of equipment and the sound of Alexei not solving the problem.
 
 She did not come to the robotics lab often. She came when she came. She stood in the doorway with her coat still on and looked at the statue the way she looked at student drawings — for a long time, and without needing to speak first.
 
@@ -67,7 +67,7 @@ She pulled her coat tighter. She had, he noticed, not taken off her gloves.
 
 She left.
 
-Alexei stood in the lab for a long time.
+Alexei stood in the lab for a long time. The light outside had dimmed to the point where the window had become a mirror, and in it the statue and his own reflection stood at the same depth, one facing him and one not.
 
 Then he disconnected the arms.
 
@@ -85,7 +85,7 @@ On the bench, the two detached arms lay palm-up and did not comment.
 
 He covered them with a cloth.
 
-He went home.
+He went home. The night air was cool and tasted of rain that had already happened somewhere else. He breathed it in and the breathing felt new, as if his lungs had been holding something they had only now agreed to let go of.
 
 He slept well that night. The best he had slept in weeks.
 

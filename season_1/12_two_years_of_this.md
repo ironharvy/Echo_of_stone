@@ -27,11 +27,13 @@ Spring of the second year.
 
 Mikhail disappeared for two weeks and came back. He did not explain where he had been. Alexei ran into him in the cafeteria. Mikhail looked thinner and, Alexei thought, further away — not in distance, in some other axis. He said, in passing, as if it were the name of a song: "The patterns are still moving, by the way," and then went to find a chair.
 
-Summer of the second year, which Alexei stayed in Dubna for, because the lab was quiet and the statue was closer to finished than it had ever been.
+Summer of the second year, which Alexei stayed in Dubna for, because the lab was quiet and the statue was closer to finished than it had ever been. The campus in summer was a different place — emptied out, the hallways echoey and cool, the cafeteria serving food for a quarter of the people it was designed for. The trees outside the lab window grew thick and full and blocked the light he'd gotten used to, as if the building were slowly being absorbed by something patient and green.
 
 Two years of this.
 
-Dmitri said it, once, in August, lying on his bed with the fan blowing on him and achieving nothing: "Two years of this."
+Dmitri said it, once, in August, lying on his bed with the fan blowing on him and achieving nothing. The room was the temperature of a slow argument. Light came through the curtain in a flat white slab and lay across the floor like it had nowhere else to be.
+
+"Two years of this."
 
 Alexei, at his desk, said: "Two years of what."
 
@@ -41,7 +43,7 @@ Alexei did not reply. He understood.
 
 Autumn of the third year.
 
-The statue had hands now. Both of them. Every joint articulated. He tested the articulation weekly, and weekly the hands moved, and weekly he stood back and looked at the hands and did not know whether he liked them. Morning Alexei thought they were slightly too mechanical. Evening Alexei thought they were slightly too soft. Both Alexeis had a point. Neither could convince the other, because neither knew the other was in the argument.
+The statue had hands now. Both of them. Every joint articulated. She stood in the lab corner at roughly the height of a small woman, her surface a patchwork of grey clay and exposed steel, the seam between the two handwritings running through her like a fault line that neither side wanted to claim. He tested the articulation weekly, and weekly the hands moved, and weekly he stood back and looked at the hands and did not know whether he liked them. Morning Alexei thought they were slightly too mechanical. Evening Alexei thought they were slightly too soft. Both Alexeis had a point. Neither could convince the other, because neither knew the other was in the argument.
 
 Everyone who saw it called it something different. Grisha, delivering the last of the bearings, called it "the sculpture." Shestakova, passing the open lab door one afternoon, paused and said, "How is the figure coming along." Burov, in a corridor, referred to it as "your thing." Alexei corrected each of them. It was a robot. It had twelve servo motors and a control loop. Nobody remembered the correction the next time they saw it.
 

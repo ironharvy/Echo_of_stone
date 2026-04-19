@@ -17,6 +17,16 @@ Autumn of the second year.
 
 Dmitri came back from the summer with a haircut that Dmitri's mother would later describe, in a phone call Alexei could not help overhearing, as *a decision*. It was shorter on one side than the other. Dmitri appeared to be in favor of it. Alexei did not comment. The cosmonaut on the windowsill, against which all ambitions could be measured, did not comment either.
 
+It was Dmitri who found the canteen at the concrete plant.
+
+The plant was ЖБИ — reinforced concrete products — fifteen minutes past the bus terminal, at the edge of the industrial zone. The canteen was on the second floor. You reached it by climbing a staircase built for a workforce that had once numbered in the hundreds — granite steps, wide enough for three, monumental in the way Soviet infrastructure is monumental: not to impress, but because nobody had thought to build it smaller.
+
+On the wall at the base of the stairs, someone had mounted a bas-relief. It depicted, or attempted to depict, granite — several rounded shapes rendered in concrete, which was optimistic — and beneath them an inscription: ГРЫЗТЬ ГРАНИТ НАУКИ. *To gnaw at the granite of science.* The old idiom about studying hard. Except that here, in a canteen inside a precast concrete plant, the idiom was also a joke about lunch. Nobody acknowledged this. In Russia, the best jokes are the ones nobody acknowledges.
+
+The canteen itself was Soviet in the way a cathedral is medieval — not preserved, merely never replaced. Granite flooring, original. Ceiling tiles, original, except for the ones that were missing, which left dark rectangular gaps that looked up into the building's guts like open drawers nobody had bothered to close. The women behind the counter wore white coats and expressions from a stricter decade. The pots were enormous — not pots for individuals but for categories of people. The food was not better than the university cafeteria, not worse — *different.* Heavier. More committed. The food of people who poured concrete all morning and needed a lunch that understood this.
+
+Dmitri declared it their canteen on the first visit. Alexei agreed by returning the following week. They went on Tuesdays when they could. It became, without ceremony, a small fixed point in a life that had few.
+
 Winter of the second year.
 
 The corridor pipe, the long exposed one that ran along the ceiling outside the shared bathroom, began tapping at night. It was not a steady tap. It was the uncertain arrhythmic tap of a pipe that had decided to be alive but had not decided about when. Three beats, a pause, two beats, nothing for a minute, a single long one. The first week everyone complained. The second week everyone stopped complaining, because nothing could be done and complaining without result had its own fatigue. By the third week it had become, for Alexei, the sound of the building deciding whether it still wanted to exist. He fell asleep to it. He woke up to it. He stopped hearing it in the way one stops hearing one's own breath.

@@ -13,9 +13,9 @@ Random detail: not triggered (roll skipped this chapter)
 Passes: draft (compact) → expansion (sensory/interior/world texture, no new plot)
 -->
 
-The hall still smelled like old parquet and sweat two hours into the diskoteka. Someone had draped leftover New Year's tinsel along the wall bars and half of it had slumped; the tape giving up in the heat. A fog machine near the stage coughed out thin ribbons that never quite became atmosphere — they clung ankle-high, drifting between shoes. The kid running the music kept blasting songs two years older than anyone wanted to hear and shouting over them between tracks as if his voice were also a track.
+The hall still smelled like dusty parquet and old rubber two hours into the diskoteka. Someone had draped leftover New Year's tinsel and foil dozhdik across the wall bars and half of it had slumped; the tape giving up on the heat from the cast-iron pipes. A fog machine near the stage coughed out thin ribbons that never quite became atmosphere — they clung ankle-high, drifting between shoes. The kid running the music kept blasting tracks two years out of date, hunching over his laptop like it was a mixing console. Between songs he'd grab the crackling microphone and demand to know why everyone was standing around like statues.
 
-Alexei stood by the radiator. He had been standing there long enough that the radiator had given up trying to be hot under his shoulder. He could feel the shape of its ridges through his shirt. His coat was checked downstairs; he kept turning the plastic cloakroom tag between his fingers — the little numbered oval — as if it were the one thing he had come here to hold. Across the floor, people moved in clusters that opened and closed like hands — easy, unselfconscious, part of some choreography he had never been taught.
+Alexei stood by the radiator. He had been standing there long enough that the radiator had given up trying to be hot under his shoulder. He could feel the shape of its thick, cast-iron ridges through his shirt. His coat was checked downstairs; he kept turning the plastic cloakroom tag between his fingers — the little numbered oval — as if it were the one thing he had come here to hold. Across the floor, people moved in clusters that opened and closed like hands — easy, unselfconscious, part of some choreography he had never been taught.
 
 He had rehearsed it. Walking over, saying her name, asking if she wanted to step into the corridor for a minute. He had rehearsed tone, pace, what to do with his hands. He had, at some point during the sixth chorus of a song he hated, even rehearsed the part where she said yes.
 
@@ -35,7 +35,7 @@ He opened his mouth. The rehearsed sentence did not come. A shorter, worse one d
 
 "Sure. Of course."
 
-They moved away from the windows, not into the corridor, only to the far wall where a fluorescent tube buzzed faintly. The buzz was on a frequency that got inside teeth. Somewhere behind them the bass dropped and a few people cheered — muffled, like sound heard through water. She waited — still patient, still polite — one hand flat against the painted plaster.
+They pushed through the heavy hall doors into the stairwell. Above them, a fluorescent tube buzzed faintly. The buzz was on a frequency that got inside teeth. Through the doors behind them the bass dropped and a few people cheered — muffled, like sound heard through water. She waited — still patient, still polite — one hand flat against the painted plaster.
 
 He said the thing. He said it badly. He had practiced a version with an opening joke and a version without and in the moment he did neither; he simply said the middle of it, the part that was supposed to come after softening.
 
@@ -51,15 +51,15 @@ He heard it land somewhere low in his chest, a small weight set down on a shelf 
 
 "I know. Now."
 
-Somebody shouted from the dance floor. The song changed — from the old one to another old one. She touched his arm, once, briefly. A gesture so decent it hurt worse than refusal.
+Somebody shouted behind the heavy doors. The song changed — from the old one to another old one. She touched his arm, once, briefly. A gesture so decent it hurt worse than refusal.
 
 "I'm sorry," she said.
 
 He told her it was fine. He told her it was okay. He said a few other words that were not really words, only sounds shaped like being gracious. He could hear himself producing them from somewhere a step behind his own mouth.
 
-She went back to the windows. The boy she had been laughing with was waiting with a flimsy cup in each hand. He had, Alexei noticed, a very easy face.
+She went back through the heavy doors. The boy she had been laughing with was waiting with two flimsy cups of off-brand cola. He had, Alexei noticed, a very easy face.
 
-Alexei walked outside. The night was cold in the way early spring nights pretend not to be — the air still carrying a memory of afternoon warmth that had already become a lie. He sat on the concrete steps outside the entrance and watched his breath unravel. The steps were rough under his palms, grained and cold, catching the light from the hall windows. From inside, the music was reduced to its skeleton — just bass and the faint shape of a melody, as if the building were humming to itself.
+Alexei didn't go to the cloakroom for his coat. He pushed through the front doors and walked outside. The night was cold in the way early spring nights pretend not to be — the air still carrying a memory of afternoon warmth that had already become a lie. He sat on the concrete steps outside the entrance and watched his breath unravel. The steps were rough under his palms, grained and cold, catching the light from the hall windows. From inside, the music was reduced to its skeleton — just bass and the faint shape of a melody, as if the building were humming to itself.
 
 He was not crying. He was not anything. For a moment he could not feel the concrete under him and then he could feel it too much.
 
@@ -69,7 +69,7 @@ He sat a while. A while was all he could measure.
 
 He thought — not in sentences, not yet — that he had been waiting for a cue Yulia had never been given. That he had expected her to notice something he had taken care to hide. That he had been quiet for so long that he had made himself into a room no one had needed to enter.
 
-Later, walking home past dark shopfronts behind metal roller gates on a street he had walked a thousand times, he kept his hands in his jacket pockets and his eyes on the pavement. The green cross of a pharmacy still glowed above a locked door; a streetlamp buzzed nearby, its light the same tired orange as the tinsel that was probably still drooping in the hall. A cat sat perfectly still on a window ledge across the street, watching him with the calm disinterest of something that had never needed to be noticed.
+Later, walking home past dark shopfronts behind metal roller gates on a street he had walked a thousand times, he kept his hands in his pockets and his eyes on the pavement. The green cross of a pharmacy still glowed above a locked door; a streetlamp buzzed nearby, its light the same tired orange as the tinsel that was probably still drooping in the hall. A cat sat perfectly still on a window ledge across the street, watching him with the calm disinterest of something that had never needed to be noticed.
 
 He passed a closed gallery window. A poster in it showed a white marble figure — a woman, headless, armless, entirely indifferent to being looked at. The floodlight above the glass flickered once and held.
 

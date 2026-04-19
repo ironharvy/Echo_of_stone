@@ -10,7 +10,7 @@ easter egg — "written not painted" parallels code/consciousness as information
 icon as "written" = pattern encoded in form.
 -->
 
-Культурология met on Wednesdays at ten in a room that smelled of chalk dust and a specific kind of disappointment.
+Культурология met on Wednesdays at ten in a room that smelled of chalk dust and a specific kind of disappointment. The morning outside was the flat grey kind — no wind, no rain, just the sky sitting on the rooftops like something waiting to be decided.
 
 The disappointment was architectural. The room had been designed, at some point in the seventies, for something grander — a seminar in political economy, perhaps, or Marxist aesthetics — and whatever had been grand about it had been removed but not replaced. There were marks on the walls where portraits had hung. There was a projector screen that didn't retract properly and hung at a permanent slant, like a flag in a country that had changed its mind.
 
@@ -30,7 +30,7 @@ The chess players did not look up. The coder adjusted his screen.
 
 Alexei wrote nothing down. He did not take notes in classes he considered decorative, and he considered most classes decorative. The sorting algorithms were not decorative. Data structures were not decorative. This — the history of pictures made by monks — was the tax you paid for a diploma.
 
-Irina Petrovna put a slide on the crooked screen. An icon. Gold background, dark eyes, the kind of face that looked at you from a specific kind of distance — close enough to judge, far enough not to help.
+Irina Petrovna put a slide on the crooked screen. An icon. Gold background, dark eyes, the kind of face that looked at you from a specific kind of distance — close enough to judge, far enough not to help. The paint had cracked along the cheekbone in a way that looked deliberate, as if the wood underneath were trying to show through — as if the substrate, even here, wanted to be acknowledged.
 
 "The theological question," she said, "is whether the divine is *in* the icon or *through* the icon. These are different claims. In the eighth century, this distinction was worth killing over. The iconoclasts said: the image is the thing, and worship of the thing is idolatry. The iconodules said: the image is a window. The presence passes through it. The wood and paint are substrate. What matters is what the substrate carries."
 
@@ -120,7 +120,7 @@ Mikhail looked at him with the expression of a man who has been asked a question
 
 Alexei walked. Mikhail did not follow. This was, somehow, worse than if he had.
 
-In the stairwell, alone, Alexei stood for a moment with his hand on the railing and thought: *a window that can't be closed.* He did not know why this bothered him. He did not know why a thing said by a forgettable lecturer about a medieval theological debate should sit in his chest like a small wrong note in a song he otherwise couldn't hear.
+In the stairwell, alone — the echo of his own footsteps still settling, the smell of old paint and radiator heat — Alexei stood for a moment with his hand on the railing and thought: *a window that can't be closed.* He did not know why this bothered him. He did not know why a thing said by a forgettable lecturer about a medieval theological debate should sit in his chest like a small wrong note in a song he otherwise couldn't hear.
 
 He went to the cafeteria. He bought tea. He sat by the window and looked at the birch trees in the courtyard, which were the color of things that have given up on autumn but have not yet committed to winter.
 

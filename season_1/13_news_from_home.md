@@ -10,11 +10,11 @@ statue as literal refuge (stakes of thesis failure = draft). No
 random detail.
 -->
 
-The call came on a Sunday morning. Alexei was at his desk, working. Dmitri was on his phone, unshaven, in yesterday's shirt. When he picked up he said *Mama* in the pleasant voice he used for his mother, and then his face did something — did not fall, exactly, but adjusted. Became the face for news that wasn't going to be easy.
+The call came on a Sunday morning. The room was quiet in the way Sunday mornings are quiet — late light through the curtain, the building half-asleep, someone's radio playing softly two floors down. Alexei was at his desk, working. Dmitri was on his phone, unshaven, in yesterday's shirt. When he picked up he said *Mama* in the pleasant voice he used for his mother, and then his face did something — did not fall, exactly, but adjusted. Became the face for news that wasn't going to be easy.
 
 He stood. He walked to the window. He said *ah*, and *when*, and *is he*, and after a while he said *I see*, and after that he mostly said *mm* and *I know* and *I know, Mama*, and once *no, she shouldn't, no*, and finally he said *I'll tell him* and hung up.
 
-He stayed at the window a minute longer.
+He stayed at the window a minute longer. Outside, the courtyard was empty and bright and the birch trees had the bare clean look they get in early winter when they have given up everything and are lighter for it.
 
 "Valera," he said.
 
@@ -72,7 +72,7 @@ Dmitri looked at him. It was, Alexei thought later, the longest Dmitri had looke
 
 He went to make tea.
 
-After a while Alexei went back to his work. He worked, that day, for eleven hours. He worked the next day for twelve. He worked past midnight for six consecutive evenings that week, not because the statue required it — it was, by any reasonable measure, finished enough to defend — but because he could not, in his chest, find any other shape for the week's news. The project was the only thing with edges. Everything else was, right now, a room without walls.
+After a while Alexei went back to his work. He worked, that day, for eleven hours. He worked the next day for twelve. He worked past midnight for six consecutive evenings that week — the lab emptying around him, the fluorescent tubes humming their single note, the campus outside the window going dark in stages until only the security lights remained, casting long shadows across the courtyard that moved only when the wind moved the birches. He worked not because the statue required it — it was, by any reasonable measure, finished enough to defend — but because he could not, in his chest, find any other shape for the week's news. The project was the only thing with edges. Everything else was, right now, a room without walls.
 
 He thought, at some point in that week, about the envelope. The envelope his mother had put on the kitchen table on a Thursday, a lifetime ago, that he had never opened and that was still, as far as he knew, in the second drawer of the kitchen sideboard, sitting among the batteries and the warranty cards, waiting with the patient terrible patience of paper.
 

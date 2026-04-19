@@ -18,6 +18,8 @@ registers without naming, faint chill at the end).
 
 He came back to the dorm at almost eleven from a session in the robotics lab that had gone badly in a quiet, un-dramatic way. A servo had refused him for an hour in a manner that was, technically, within spec and, practically, mocking. He had fixed it. The fix had been inelegant. He did not feel like he had won anything.
 
+The campus at eleven was a different campus — emptied out, the paths lit by lamps that cast more shadow than light, the buildings reduced to shapes that hummed. The air smelled like wet leaves and the river.
+
 The dorm corridor was warm in the way corridors are warm at eleven — not from heat, but from a day's worth of breath not yet dispersed.
 
 Dmitri was on his bed with a textbook open across his chest, not reading it, using it as a roof. He looked up when Alexei came in.
@@ -32,7 +34,7 @@ Dmitri was on his bed with a textbook open across his chest, not reading it, usi
 
 "Wash up *angrily*. I'll wait."
 
-Alexei went into the small shared bathroom at the end of the hall. Two sinks, one mirror, a flickering fluorescent tube that had been flickering since September and would, barring intervention, flicker until June. He turned the cold tap. He splashed his face. Once. Twice. On the third time he made the mistake of lifting his head too fast and catching his own reflection before he was ready for it.
+Alexei went into the small shared bathroom at the end of the hall. Two sinks, one mirror, a flickering fluorescent tube that had been flickering since September and would, barring intervention, flicker until June. The tiles were the color of nothing — not white, not cream, just the color tiles become when no one has chosen them. He turned the cold tap. The water came out colder than he expected, cold enough that it felt like information. He splashed his face. Once. Twice. On the third time he made the mistake of lifting his head too fast and catching his own reflection before he was ready for it.
 
 He met his own eyes.
 
@@ -90,12 +92,12 @@ Alexei almost laughed. It was a small sound and it left his chest before his bra
 
 "Then don't get weird about it," he said.
 
-Dmitri poured two short glasses, handed one across. Alexei took it — again, not gripping; resting the glass on his fingers, feeling the cool of it through the pads. He lifted it, sipped, held the sip, did not grimace.
+Dmitri poured two short glasses, handed one across. The room was quiet now — the guitar student upstairs had given up for the night, and the building had settled into its own low frequencies, pipes and radiators doing their slow administrative work. Alexei took the glass — again, not gripping; resting it on his fingers, feeling the cool of it through the pads. He lifted it, sipped, held the sip, did not grimace.
 
 Dmitri watched him do this. Dmitri did not say anything more about it. Later, lying in bed with the lights out, he would say, vaguely to the ceiling, *weird night*, and Alexei would make a sound of agreement, and neither would elaborate.
 
 At some point in the night — neither of them heard it — the middle drawer of Dmitri's wardrobe, which for reasons no one had articulated had remained slightly open, slid one further centimeter outward on its runner. It stayed there until morning.
 
-In the morning, Alexei — washing his face again in the same flickering light, meeting his own eyes again and finding them ordinary, his own, tired — walked back into the room, crossed without a word to the wardrobe, and closed the drawer with both hands, pressing it shut until the last half-centimeter seated. He did not remember noticing it the night before.
+In the morning — grey light through the curtain, someone's alarm going off two rooms away and being slapped into silence — Alexei washed his face again in the same flickering light, met his own eyes again and found them ordinary, his own, tired. He walked back into the room, crossed without a word to the wardrobe, and closed the drawer with both hands, pressing it shut until the last half-centimeter seated. He did not remember noticing it the night before.
 
 He went to make tea.

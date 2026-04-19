@@ -15,11 +15,11 @@ Passes: draft (compact) → expansion (sensory/interior/world texture, no new pl
 
 The hall still smelled like dusty parquet and old rubber two hours into the diskoteka. Someone had draped leftover New Year's tinsel and foil dozhdik across the wall bars and half of it had slumped; the tape giving up on the heat from the central heating pipes. A fog machine near the stage coughed out thin ribbons that never quite became atmosphere — they clung ankle-high, drifting between shoes. The kid running the music kept blasting tracks two years out of date, hunching over his laptop like it was a mixing console. Between songs he'd grab the crackling microphone and demand to know why everyone was standing around like statues.
 
-Alexei stood by the radiator. He had been standing there long enough that the radiator had given up trying to be hot under his shoulder. He could feel the shape of its thick, cast-iron ridges through his shirt. His coat was checked downstairs; he kept turning the plastic cloakroom tag between his fingers — the little numbered oval — as if it were the one thing he had come here to hold. Across the floor, people moved in clusters that opened and closed like hands — easy, unselfconscious, part of some choreography he had never been taught.
+Alexei stood by the radiator. He had been standing there long enough that the radiator had given up trying to be hot under his shoulder. He could feel the shape of its thick, cast-iron ridges through his shirt. His coat was checked in the cloackroom; he kept turning the plastic tag given to him between his fingers — the little numbered oval — as if it were the one thing he had come here to hold. Across the floor, people moved in clusters that opened and closed like hands — easy, unselfconscious, part of some choreography he had never been taught.
 
 He had rehearsed it. Walking over, saying her name, asking if she wanted to step into the corridor for a minute. He had rehearsed tone, pace, what to do with his hands. He had, at some point during the sixth chorus of a song he hated, even rehearsed the part where she said yes.
 
-She was laughing by the windowsill with the soda bottles. Somebody had said something clever. Alexei didn't know who. He had known her for seven years and he still could not reliably tell when she was actually amused or only being polite. The light caught the thin silver bracelet at her wrist, the one with the single blue bead — he had known the bracelet longer than he had known his own handwriting.
+She was laughing by the windowsill with the cola bottles. Somebody had said something clever. Alexei didn't know who. He had known her for seven years and he still could not reliably tell when she was actually amused or only being polite. The light caught the thin silver bracelet at her wrist, the one with the single blue bead — he had known the bracelet longer than he had known his own handwriting.
 
 He walked over.
 
@@ -69,9 +69,9 @@ He sat a while. A while was all he could measure.
 
 He thought — not in sentences, not yet — that he had been waiting for a cue Yulia had never been given. That he had expected her to notice something he had taken care to hide. That he had been quiet for so long that he had made himself into a room no one had needed to enter.
 
-Later, walking home past dark shopfronts behind metal roller gates on a street he had walked a thousand times, he kept his hands in his pockets and his eyes on the pavement. The green cross of a pharmacy still glowed above a locked door; a streetlamp buzzed nearby, its light the same tired orange as the tinsel that was probably still drooping in the hall. A cat sat perfectly still on a window ledge across the street, watching him with the calm disinterest of something that had never needed to be noticed.
+Later, walking home past dark shopfronts on a street he had walked a thousand times, he kept his hands in his pockets and his eyes on the pavement. The green cross of a pharmacy still glowed above a locked door; a streetlamp buzzed nearby, its light the same tired orange as the tinsel that was probably still drooping in the hall. A cat sat perfectly still on a window ledge across the street, watching him with the calm disinterest of something that had never needed to be noticed.
 
-He passed a closed gallery window. A poster in it showed a white marble figure — a woman, headless, armless, entirely indifferent to being looked at. The floodlight above the glass flickered once and held.
+He passed a closed gallery window. A poster in it showed a white marble figure — a woman, headless, armless, entirely indifferent to being looked at. The light above the glass flickered once and held.
 
 He paused, without meaning to. The figure did not require anything of him. It was beautiful and it was silent and there was nothing it could refuse.
 

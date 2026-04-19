@@ -11,7 +11,7 @@ stretch). Compressed montage prose. No random detail.
 
 The work took a year. Not in the sense that it consumed the year; in the sense that the year, without quite being asked, made room for it.
 
-They gave him a corner of the robotics lab — a corner, not a bay, because he was a second-year and corners were what second-years got. The corner had a bench, a wall outlet, a window that did not open, and enough floor space for a figure the size of a small woman if the small woman stood very still and did not mind being stared at by undergraduates.
+They gave him a corner of the robotics lab — a corner, not a bay, because he was a second-year and corners were what second-years got. The corner had a bench, a wall outlet, a window that did not open, and enough floor space for a figure the size of a small woman if the small woman stood very still and did not mind being stared at by undergraduates. Beyond his corner, the lab hummed with other people's projects — the click of keyboards, the whine of test motors, the occasional swear in at least two languages — but the corner itself was his, and he kept it the way he kept things: squared, closed, accounted for.
 
 The first month, the work was all armature.
 
@@ -37,7 +37,7 @@ This, he told himself, was engineering to the actual geometry. It was a sensible
 
 He was satisfied with this explanation. He did not examine it further.
 
-Dmitri came by on Sundays with food. He stood in the doorway and ate a sandwich and made observations.
+Dmitri came by on Sundays with food — always around two, always with something wrapped in paper from the canteen that he had smuggled out with the quiet pride of a man conducting a small important theft. He stood in the doorway and ate a sandwich and made observations.
 
 "Nice statue."
 
@@ -69,7 +69,7 @@ Sometimes the drawer was closed when he woke up.
 
 He didn't always remember whether he had closed it or not.
 
-By February the statue had limbs. By April it had proportions. By the end of the spring semester, the clay was hardened, the armature sealed, the control system provisionally wired, and Alexei — on a Thursday, alone in the lab at eleven, standing back — saw for the first time the shape of the thing without the thing in his way.
+Through the window that did not open, the seasons changed without his permission — snow piled on the sill in December, melted to a grey film in March, and by April a single weed had pushed through a crack in the outer concrete and was leaning toward the glass as if trying to see what he was building. By February the statue had limbs. By April it had proportions. By the end of the spring semester, the clay was hardened, the armature sealed, the control system provisionally wired, and Alexei — on a Thursday, alone in the lab at eleven, standing back — saw for the first time the shape of the thing without the thing in his way.
 
 It was almost a woman.
 

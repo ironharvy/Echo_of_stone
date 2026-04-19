@@ -10,7 +10,7 @@ easter egg — "written not painted" parallels code/consciousness as information
 icon as "written" = pattern encoded in form.
 -->
 
-Культурология met on Wednesdays at ten in a room that smelled of chalk dust and a specific kind of disappointment. The morning outside was the flat grey kind — no wind, no rain, just the sky sitting on the rooftops like something waiting to be decided.
+Culturology met on Wednesdays at ten in a room that smelled of chalk dust and a specific kind of disappointment. The morning outside was the flat grey kind — no wind, no rain, just the sky sitting on the rooftops like something waiting to be decided.
 
 The disappointment was architectural. The room had been designed, at some point in the seventies, for something grander — a seminar in political economy, perhaps, or Marxist aesthetics — and whatever had been grand about it had been removed but not replaced. There were marks on the walls where portraits had hung. There was a projector screen that didn't retract properly and hung at a permanent slant, like a flag in a country that had changed its mind.
 

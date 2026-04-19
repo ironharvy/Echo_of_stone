@@ -16,13 +16,15 @@ The idea did not arrive whole. It arrived the way most real ideas arrive — as 
 
 The first half came on a Tuesday.
 
-The robotics lab had a whiteboard that nobody cleaned. Three semesters of diagrams lived on it in overlapping marker, a palimpsest of ambitions that had either graduated or given up. Alexei stood in front of it with a fresh marker and drew a schematic — a joint articulation system, shoulder-elbow-wrist, three degrees of freedom per joint, nine servos for the arm. It was elegant. It was the kind of problem that, once drawn, produced its own momentum. He labeled each joint with torque values and drew the control loop in the margin and stepped back and looked at it and felt, for the first time since arriving at Dubna, that he was inside a problem that was exactly his size.
+The robotics lab had a whiteboard that nobody cleaned. The room itself smelled of solder and machine oil and the particular staleness of a space that had been breathed in by students who forgot to open windows. Workbenches ran along two walls, cluttered with half-built rigs and coils of wire and a single coffee mug that had become a pencil holder through slow institutional consensus. Three semesters of diagrams lived on the whiteboard in overlapping marker, a palimpsest of ambitions that had either graduated or given up. Alexei stood in front of it with a fresh marker and drew a schematic — a joint articulation system, shoulder-elbow-wrist, three degrees of freedom per joint, nine servos for the arm. It was elegant. It was the kind of problem that, once drawn, produced its own momentum. He labeled each joint with torque values and drew the control loop in the margin and stepped back and looked at it and felt, for the first time since arriving at Dubna, that he was inside a problem that was exactly his size.
 
 He did not draw a body around it. He drew the mechanism. The mechanism was the point.
 
 The second half came on a Thursday.
 
-Katya was in the studio before class, sketching something from a book propped on the adjacent easel. Alexei arrived early — unusual for him, or for the version of him that usually arrived — and set up his own easel and glanced, without meaning to, at her page.
+The studio was almost empty when Alexei arrived — unusual for him, or for the version of him that usually arrived. Without the other students the room felt larger, the north-facing light more present, as if it had been waiting for fewer people to share itself with. The easels stood at their overnight angles like a conversation paused mid-sentence.
+
+Katya was already there, sketching something from a book propped on the adjacent easel. He set up his own and glanced, without meaning to, at her page.
 
 She was drawing a figure from a photograph. Classical. A woman in contrapposto, weight on one leg, hip canted, the long beautiful S-curve of a body in balance. Around the figure she had sketched notes in a handwriting that was loose and unhurried: *weight here*, *tension here*, *the line continues past the body*.
 
@@ -36,7 +38,7 @@ Alexei looked at the drawing. At the S-curve. At the notes. At the way Katya's h
 
 He went to class. He drew. He drew, for the first time, something that was not correct — something that was wrong in the right places, that Shestakova looked at for a long time and said nothing about, which was different from the silence she had given his first drawing. This silence had a nod inside it.
 
-That evening, back in the dorm, he opened his notebook to the page with the joint schematic. He looked at it. Then he turned the page and, on the facing side, drew — not a mechanism, but a figure. A woman. Standing. The S-curve. No face. No hands. Just the form.
+That evening, back in the dorm — Dmitri out somewhere, the desk lamp making its small yellow circle on the wood — he opened his notebook to the page with the joint schematic. He looked at it. Then he turned the page and, on the facing side, drew — not a mechanism, but a figure. A woman. Standing. The S-curve. No face. No hands. Just the form.
 
 On the left page, the engineering. On the right page, the shape. Between them, the fold of the notebook, which was where the idea lived — in the crease between two things that should not have been adjacent.
 
@@ -46,7 +48,7 @@ He closed the notebook. He put it on the desk, squared to the edge. He opened it
 
 He went to bed.
 
-In the dark, with Dmitri already asleep and the cosmonaut on the windowsill catching the faint blue light of something outside, Alexei lay still and thought about a body that moved. Not a person. Not a machine. Something that lived in the fold between those two words, where neither had jurisdiction.
+In the dark, with Dmitri already asleep and the building ticking its way toward silence, the cosmonaut on the windowsill caught the faint blue light of something outside. Alexei lay still and thought about a body that moved. Not a person. Not a machine. Something that lived in the fold between those two words, where neither had jurisdiction.
 
 The assignment, he realized, had not been given to him. There was no professor demanding it, no deadline enforcing it. This was worse. This was something he wanted.
 

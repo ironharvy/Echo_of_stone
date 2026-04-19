@@ -22,11 +22,13 @@ He should have gone home. Dmitri was waiting with a bottle he had acquired from 
 
 Alexei did not go home.
 
+It was after ten. The campus was quiet — the particular quiet of a Friday evening when everyone who has somewhere to be has gone there, and the buildings hold only the people who don't, and the streetlamps outside make the paths look like they belong to a different, emptier town.
+
 He went to the lab.
 
 He told himself he wanted to check something. A joint that had felt stiff during the demo. A value in the balance log that had been slightly outside nominal. Small things. The kind of things you check when you are not ready to stop being inside a project that has been inside you for four years.
 
-The lab was dark. He turned on the desk lamp. The cone of light found the statue's midsection, the same way it always did, warm below, cool above. She stood where the walk cycle had left her that afternoon, slightly forward of her resting position. Head at neutral. Shoulders flowing into air.
+The lab was dark. The building had the deep-night stillness of a place that has stopped expecting anyone — no hum from other rooms, no footsteps in the corridor, just the building's own quiet metabolism of pipes and concrete cooling. He turned on the desk lamp. The cone of light found the statue's midsection, the same way it always did, warm below, cool above. She stood where the walk cycle had left her that afternoon, slightly forward of her resting position. Head at neutral. Shoulders flowing into air.
 
 He sat down.
 

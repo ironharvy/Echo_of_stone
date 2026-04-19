@@ -20,9 +20,9 @@ The lecture was in the main physics hall on a Thursday evening and Alexei and Dm
 
 "It's on—" Dmitri squinted at the poster folded in his pocket. "*On Preservation.* Volkov. Continuity research. Philosophy-adjacent. That's the kind where they let the clever ones get a little wild. Come on."
 
-They brought beers, badly hidden in jacket pockets, and they took seats near the back.
+They brought beers, badly hidden in jacket pockets, and they took seats near the back. Outside, the October dark had come early, the way it does in towns near rivers — suddenly, completely, as if someone had simply turned the campus off. The walk over had been cold enough that the beers were now the correct temperature, which Dmitri considered a vindication of the season.
 
-The hall was full. It was the kind of full that happens when a Moscow name comes to Dubna to speak — half physics students, half humanities who had drifted in, a sprinkling of faculty pretending not to be curious.
+The hall was full. It was a tiered lecture room built for demonstrations — high ceiling, wooden benches worn smooth, a chalkboard the width of three men that nobody had cleaned since the previous talk, so equations from another discipline ghosted faintly behind the speaker. The overhead lights had been dimmed to something that was either intentional or broken, and the result was a quality of attention you got for free. It was the kind of full that happens when a Moscow name comes to Dubna to speak — half physics students, half humanities who had drifted in, a sprinkling of faculty pretending not to be curious.
 
 Sergei Volkov stood on the small raised stage at the front, at a plain wooden lectern. Mid-fifties. Tall. The kind of man whose posture had been organized once and remained organized in his absence. He wore a grey blazer. He did not use slides.
 
@@ -36,7 +36,7 @@ A student in the second row laughed, thinking it was a joke. It wasn't.
 
 "A body is a particular substrate. A particular arrangement of matter running a particular pattern. When the substrate fails — and it fails in a number of picturesque ways, as we have all observed — the pattern ends. This is the part we experience. It is what makes us mourn. But the pattern itself, considered as information, has no privileged relationship to that specific body. We treat this fact with a kind of superstition. I think this is a mistake."
 
-He spoke for thirty minutes without notes. He spoke about error correction in communication, about the mathematics of faithful copies, about what a "self" was when one declined to let the word do the work of an argument. He said, at one point, almost in passing: "A paper my late colleague and I wrote in 1994 — Volkov, S. Volkova — established some of the bounds on this. If anyone wants the reference, see me after."
+He spoke for thirty minutes without notes. The hall was quiet in the particular way a room gets when someone is saying something that might be true — no rustling, no coughing, only the faint creak of benches as people leaned forward by degrees they did not notice. He spoke about error correction in communication, about the mathematics of faithful copies, about what a "self" was when one declined to let the word do the work of an argument. He said, at one point, almost in passing: "A paper my late colleague and I wrote in 1994 — Volkov, S. Volkova — established some of the bounds on this. If anyone wants the reference, see me after."
 
 Most of the hall did not catch it. Alexei, three beers into the evening, did not catch it. The young woman in the second row did not look up.
 
@@ -90,4 +90,6 @@ Alexei looked at the stage. Sergei was answering another question now, composed 
 
 Alexei did not, yet, have a reason to learn her name.
 
-The lecture ended at a quarter past nine. Alexei and Dmitri filed out with the others into a cold corridor where the coat-pile problem asserted itself again, and Dmitri insisted, all the way home, that he had rattled a Moscow man, which he had, although not in the way he thought.
+The lecture ended at a quarter past nine. Alexei and Dmitri filed out with the others into a cold corridor that smelled of floor wax and the collective exhale of a hundred people who had been holding still for too long. Outside, the campus was darker than it had been — the river invisible now, only the sound of it somewhere past the institute roofs.
+
+Dmitri insisted, all the way home, that he had rattled a Moscow man, which he had, although not in the way he thought.

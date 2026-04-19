@@ -13,7 +13,7 @@ with no head. World-building and quietly thematic (the fate
 Alexei's statue will avoid only because he commits).
 -->
 
-The supplier's name was Grisha. The supplier's shop did not have a name. It was in a low brick building behind the Dubna bus terminal, in the part of town that the town had stopped maintaining in the eighties and had, since then, merely tolerated.
+The supplier's name was Grisha. The supplier's shop did not have a name. It was in a low brick building behind the Dubna bus terminal, in the part of town that the town had stopped maintaining in the eighties and had, since then, merely tolerated. The street to get there ran past a shuttered kiosk, a yard full of concrete pipe segments stacked like a giant's macaroni, and a dog that was either stray or merely philosophical about property.
 
 You got to Grisha by being told about Grisha. You were told about Grisha by a fourth-year named Sasha who had, two years earlier, been told about Grisha by a fifth-year named Petya, who had since graduated and was now, improbably, working for a bank in St. Petersburg. The chain had a length. It was the only kind of chain it was possible to have.
 
@@ -109,8 +109,8 @@ Outside, back in the thin grey cold, Dmitri was already in high spirits.
 
 On the bus back, Alexei held the slip of paper Grisha had given him in his coat pocket and turned it between his fingers — by the pads, absently, his thumb tracing the corner — and he did not fully realize he was doing this, because the Alexei who was doing it was not currently in the habit of noticing he existed.
 
-They went for lunch. They had soup. The soup was better than the beef had been. The bar, as Dmitri had pointed out before, was on the floor.
+They went for lunch at a canteen near the bus terminal that had plastic tablecloths and a woman behind the counter who ladled without asking what you wanted, because what you wanted was what she was ladling. They had soup — buckwheat and potato, thick enough to hold a spoon upright, served with bread that had been cut that morning and was already thinking about tomorrow. Dmitri ate two bowls. Alexei ate one, slowly, watching the steam. The soup was better than the beef had been. The bar, as Dmitri had pointed out before, was on the floor.
 
-By the end of the week they had eight of their twelve servos. By the end of the next week they had the other four, which Alexei had collected from Volodya at the polytechnic — a man who did not speak more than was necessary and who handed over the motors in a plastic bag as if returning borrowed tools.
+By the end of the week they had eight of their twelve servos. By the end of the next week they had the other four, which Alexei had collected from Volodya at the polytechnic — a converted factory building where the hallways still had pipes running along the ceilings and the classrooms smelled of metal shavings. Volodya was a man who did not speak more than was necessary and who handed over the motors in a plastic bag as if returning borrowed tools.
 
 The hand, still unbuilt, still living on the right-hand page of Alexei's notebook, began — at the edges of his day, in the gaps between other thoughts — to have fingers.

@@ -17,6 +17,16 @@ Autumn of the second year.
 
 Dmitri came back from the summer with a haircut that Dmitri's mother would later describe, in a phone call Alexei could not help overhearing, as *a decision*. It was shorter on one side than the other. Dmitri appeared to be in favor of it. Alexei did not comment. The cosmonaut on the windowsill, against which all ambitions could be measured, did not comment either.
 
+It was Dmitri who found the canteen at the concrete plant.
+
+The plant was ЖБИ — reinforced concrete products — fifteen minutes past the bus terminal, at the edge of the industrial zone. The canteen was on the second floor. You reached it by climbing a staircase built for a workforce that had once numbered in the hundreds — granite steps, wide enough for three, monumental in the way Soviet infrastructure is monumental: not to impress, but because nobody had thought to build it smaller.
+
+On the wall at the base of the stairs, someone had mounted a bas-relief. It depicted, or attempted to depict, granite — several rounded shapes rendered in concrete, which was optimistic — and beneath them an inscription: ГРЫЗТЬ ГРАНИТ НАУКИ. *To gnaw at the granite of science.* The old idiom about studying hard. Except that here, in a canteen inside a precast concrete plant, the idiom was also a joke about lunch. Nobody acknowledged this. In Russia, the best jokes are the ones nobody acknowledges.
+
+The canteen itself was Soviet in the way a cathedral is medieval — not preserved, merely never replaced. Granite flooring, original. Ceiling tiles, original, except for the ones that were missing, which left dark rectangular gaps that looked up into the building's guts like open drawers nobody had bothered to close. The women behind the counter wore white coats and expressions from a stricter decade. The pots were enormous — not pots for individuals but for categories of people. The food was not better than the university cafeteria, not worse — *different.* Heavier. More committed. The food of people who poured concrete all morning and needed a lunch that understood this.
+
+Dmitri declared it their canteen on the first visit. Alexei agreed by returning the following week. They went on Tuesdays when they could. It became, without ceremony, a small fixed point in a life that had few.
+
 Winter of the second year.
 
 The corridor pipe, the long exposed one that ran along the ceiling outside the shared bathroom, began tapping at night. It was not a steady tap. It was the uncertain arrhythmic tap of a pipe that had decided to be alive but had not decided about when. Three beats, a pause, two beats, nothing for a minute, a single long one. The first week everyone complained. The second week everyone stopped complaining, because nothing could be done and complaining without result had its own fatigue. By the third week it had become, for Alexei, the sound of the building deciding whether it still wanted to exist. He fell asleep to it. He woke up to it. He stopped hearing it in the way one stops hearing one's own breath.
@@ -27,11 +37,13 @@ Spring of the second year.
 
 Mikhail disappeared for two weeks and came back. He did not explain where he had been. Alexei ran into him in the cafeteria. Mikhail looked thinner and, Alexei thought, further away — not in distance, in some other axis. He said, in passing, as if it were the name of a song: "The patterns are still moving, by the way," and then went to find a chair.
 
-Summer of the second year, which Alexei stayed in Dubna for, because the lab was quiet and the statue was closer to finished than it had ever been.
+Summer of the second year, which Alexei stayed in Dubna for, because the lab was quiet and the statue was closer to finished than it had ever been. The campus in summer was a different place — emptied out, the hallways echoey and cool, the cafeteria serving food for a quarter of the people it was designed for. The trees outside the lab window grew thick and full and blocked the light he'd gotten used to, as if the building were slowly being absorbed by something patient and green.
 
 Two years of this.
 
-Dmitri said it, once, in August, lying on his bed with the fan blowing on him and achieving nothing: "Two years of this."
+Dmitri said it, once, in August, lying on his bed with the fan blowing on him and achieving nothing. The room was the temperature of a slow argument. Light came through the curtain in a flat white slab and lay across the floor like it had nowhere else to be.
+
+"Two years of this."
 
 Alexei, at his desk, said: "Two years of what."
 
@@ -41,7 +53,7 @@ Alexei did not reply. He understood.
 
 Autumn of the third year.
 
-The statue had hands now. Both of them. Every joint articulated. He tested the articulation weekly, and weekly the hands moved, and weekly he stood back and looked at the hands and did not know whether he liked them. Morning Alexei thought they were slightly too mechanical. Evening Alexei thought they were slightly too soft. Both Alexeis had a point. Neither could convince the other, because neither knew the other was in the argument.
+The statue had hands now. Both of them. Every joint articulated. She stood in the lab corner at roughly the height of a small woman, her surface a patchwork of grey clay and exposed steel, the seam between the two handwritings running through her like a fault line that neither side wanted to claim. He tested the articulation weekly, and weekly the hands moved, and weekly he stood back and looked at the hands and did not know whether he liked them. Morning Alexei thought they were slightly too mechanical. Evening Alexei thought they were slightly too soft. Both Alexeis had a point. Neither could convince the other, because neither knew the other was in the argument.
 
 Everyone who saw it called it something different. Grisha, delivering the last of the bearings, called it "the sculpture." Shestakova, passing the open lab door one afternoon, paused and said, "How is the figure coming along." Burov, in a corridor, referred to it as "your thing." Alexei corrected each of them. It was a robot. It had twelve servo motors and a control loop. Nobody remembered the correction the next time they saw it.
 

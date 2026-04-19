@@ -12,7 +12,7 @@ thawing in a hallway, combined with the arrhythmic knock of a water pipe that
 can't decide whether it's on.
 -->
 
-The apartment belonged to somebody's older sister who was not there. Twenty-odd students were packed into three small rooms, which meant that in the kitchen you were in the conversation even if you did not intend to be, and in the hallway you were in the coats.
+The apartment belonged to somebody's older sister who was not there. The building was five stories of pre-war plaster on a street where every other streetlamp had given up, and the stairwell smelled of boiled cabbage and cold concrete and someone else's cigarette from an hour ago. Twenty-odd students were packed into three small rooms, which meant that in the kitchen you were in the conversation even if you did not intend to be, and in the hallway you were in the coats.
 
 The coats had been piled on the floor by the door because the rack had fallen off the wall sometime in the second hour. They steamed faintly, a wet-wool-and-sleet damp mixing with the vodka spilled on them and the onion somebody was frying two rooms away, and together the smell was the exact smell of Russian late-autumn conversation — coats sweating into themselves, kitchens frying, people becoming briefly honest.
 
@@ -76,11 +76,11 @@ The pipe knocked.
 
 Alexei went.
 
-In the kitchen Dmitri was showing three people how, in principle, you could open a beer bottle with any flat surface including a human forehead, and in principle he was not going to demonstrate, but in principle any moment now he might. Alexei stood in the doorway and watched and did not join.
+In the kitchen Dmitri was showing three people how, in principle, you could open a beer bottle with any flat surface including a human forehead, and in principle he was not going to demonstrate, but in principle any moment now he might. The overhead bulb was too bright and someone had opened a window to let the steam out, and the cold air met the warm air somewhere in the middle of the room and could not agree. Alexei stood in the doorway and watched and did not join.
 
 In his head the sentence was still running. *Patterns can move.* It would not stop running. It did not belong to a category he had a drawer for. He closed it in his mind, carefully, two-handed, the way he closed things; it opened again.
 
-Later, walking back to the dorm with Dmitri, he said, too casually: "Who is Mikhail, exactly?"
+Later, walking back to the dorm with Dmitri — the night sharp and clear now, the sleet finished, the kind of cold that made the streetlamps look brighter than they were — he said, too casually: "Who is Mikhail, exactly?"
 
 "Mikhail? Mikhail is a symptom."
 

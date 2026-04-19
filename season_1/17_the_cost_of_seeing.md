@@ -29,7 +29,7 @@ Pavel looked at him the way people looked at questions they did not want to answ
 
 "The form doesn't say."
 
-On Sunday morning Alexei found, in his university mailbox — the physical one, the small metal slot in the lobby that he checked once a week and that usually contained nothing — a folded piece of notebook paper. No envelope. It had been pushed through the slot by hand. His name was on the outside in a handwriting he recognized: angular, too small, the handwriting of a man who had once been told his handwriting was unreadable and had responded by making it smaller.
+On Sunday morning Alexei found, in his university mailbox — the physical one, the small metal slot in the lobby that he checked once a week and that usually contained nothing — a folded piece of notebook paper. The lobby was empty and smelled of floor cleaner and the particular staleness of a building on a weekend morning, when nobody is expected and the radiators run for no one. No envelope. It had been pushed through the slot by hand. His name was on the outside in a handwriting he recognized: angular, too small, the handwriting of a man who had once been told his handwriting was unreadable and had responded by making it smaller.
 
 He unfolded it standing in the lobby.
 
@@ -79,7 +79,7 @@ Dmitri cracked an egg. He cracked it cleanly, which was unusual — Dmitri's egg
 
 Dmitri nodded. He did not say anything else for a while. He made the eggs. He put two plates on the desk — not on the table, because there was no table, only desks. He handed Alexei a fork.
 
-They ate.
+They ate. The eggs were too salty, which meant Dmitri had seasoned them while thinking about something else. Neither mentioned it. The room had the quality of a room where two people are being quiet together on purpose, not because they have nothing to say but because what they have to say is sitting between them and both of them can see it and neither wants to be the one to pick it up first.
 
 After a while Dmitri said: "Mikhail is a symptom."
 
@@ -99,6 +99,6 @@ He did not need to. The sentences were already inside him, doing what sentences 
 
 *Seeing, without building, is just observation.*
 
-He went to the lab.
+He went to the lab. The campus was quiet, the paths wet from overnight rain, the air still carrying the mineral smell of it. The lab door was unlocked because he had not locked it. The statue was where she always was.
 
 He worked.

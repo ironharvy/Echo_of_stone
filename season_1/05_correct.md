@@ -10,9 +10,9 @@ Shestakova introduced here; she will deliver #15.
 Random detail: not triggered.
 -->
 
-The art elective met in a high-ceilinged studio on the fourth floor of a building the Computer Science department did not acknowledge. Alexei had signed up for it because the catalog had described it as *Introduction to Figurative Form* and because a friend in his mother's generation had told his mother, once, that a boy who studied only numbers grew up narrow, and his mother had repeated this to Alexei at an age when repetition works.
+The art elective met in a high-ceilinged studio on the fourth floor of a building the Computer Science department did not acknowledge. The building was older than the rest of campus — pre-institute, pre-plan — and it wore its age the way certain buildings do, with cracked plaster and radiators that ticked and a stairwell where each landing smelled like a different decade's paint. Alexei had signed up for it because the catalog had described it as *Introduction to Figurative Form* and because a friend in his mother's generation had told his mother, once, that a boy who studied only numbers grew up narrow, and his mother had repeated this to Alexei at an age when repetition works.
 
-The studio had ten easels, a scatter of wooden stools, and on the raised platform in the center of the room a woman in a grey robe. She was, Alexei would learn, a model named Nina who came on Tuesdays. She was perhaps fifty. She looked at nobody and she looked through everybody and she had the stillness of someone who had decided, years ago, that her time was her own and she had graciously agreed to lend them some of it.
+The studio had ten easels, a scatter of wooden stools, and light — north-facing light from tall windows that came in without opinion, the kind of light that does not flatter and does not judge but simply shows you what is there. The air smelled faintly of linseed and chalk and the ghost of turpentine from a class that met before theirs. On the raised platform in the center of the room stood a woman in a grey robe. She was, Alexei would learn, a model named Nina who came on Tuesdays. She was perhaps fifty. She looked at nobody and she looked through everybody and she had the stillness of someone who had decided, years ago, that her time was her own and she had graciously agreed to lend them some of it.
 
 Professor Shestakova walked between the easels without ceremony. She was small and precise, with hair pinned up into an arrangement that had not changed since the seventies, and she said very little, but when she said something it stayed said.
 
@@ -21,6 +21,8 @@ Professor Shestakova walked between the easels without ceremony. She was small a
 Nina let the robe fall. She took up a pose: weight on one leg, the other slightly forward, one arm bent across the body, the other dropped to the side. Classical, practiced, familiar. An attendance of proportions.
 
 Alexei drew.
+
+The room went quiet the way rooms do when ten people are concentrating at once — not silence, but a held breath, punctuated by the scratch of charcoal and the small shifts of someone adjusting their grip. Nina did not move. The light did not move. Only the pencils moved.
 
 He drew well, in the way he did most things well. The proportions were accurate. The hatching was consistent. The negative space in the bent elbow was correctly negative. When Professor Shestakova stopped behind him at the seventeen-minute mark, she looked at his drawing for longer than she had looked at anyone else's, and she did not say anything, and then she moved on.
 
@@ -74,7 +76,7 @@ In the corridor outside, with the roll of paper under his arm, Alexei stopped an
 
 He closed the notebook and put it in his bag and did not look at the sentence again. But the sentence did not require that he look at it. It had been written; it was doing its work.
 
-On the bus back to the dorm, out of habit, he thought about the pose. The weight on the left leg. The arm across. The unhurried abandoned grace of a woman indifferent to being looked at.
+On the bus back to the dorm — the windows fogged at the edges, the river visible through them in grey slices — he thought, out of habit, about the pose. The weight on the left leg. The arm across. The unhurried abandoned grace of a woman indifferent to being looked at.
 
 He could almost — not quite — see, instead of Nina, a figure in white stone. Missing, he noticed, nothing in particular. But the feeling was there: a body held still by someone else's attention.
 

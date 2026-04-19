@@ -8,7 +8,7 @@ tension displaced into problem-solving (no track peak this chapter).
 Random detail: not triggered.
 -->
 
-Professor Burov was the kind of man who enjoyed assigning impossible things and then watching to see which students became interesting under pressure. He taught the introductory course on machine intelligence and he began the first lecture by writing, on the board, in a hand that did not negotiate:
+Professor Burov was the kind of man who enjoyed assigning impossible things and then watching to see which students became interesting under pressure. He taught the introductory course on machine intelligence in a lecture hall with tiered wooden desks that had been carved on by three decades of students and a blackboard so old it had gone grey at the edges, as if it were slowly forgetting what it was for. He began the first lecture by writing, on the board, in a hand that did not negotiate:
 
 *BY FRIDAY: A PROGRAM THAT PASSES A CONVERSATION TEST WITH A HUMAN JUDGE FOR FIVE MINUTES. ANY METHOD.*
 
@@ -36,9 +36,9 @@ Dmitri, two rows behind Alexei, leaned forward and said into his ear, at a volum
 
 "Watch."
 
-By Wednesday half the cohort had committed to building something real and were already losing. They were trying to train models they could not train, on hardware they did not have, in languages they had learned the week before. They slept in the computer lab. They developed opinions about each other's body odor.
+By Wednesday half the cohort had committed to building something real and were already losing. They were trying to train models they could not train, on hardware they did not have, in languages they had learned the week before. They slept in the computer lab — a long basement room where the monitors cast a greenish light and the ventilation had been set to a temperature that was either ambitious or broken. Coffee cups accumulated on the desks like a geological record. They developed opinions about each other's body odor.
 
-Alexei did not sleep in the computer lab. Alexei reread the assignment on Tuesday evening and then sat with his folder squared on the desk and thought about what, specifically, Burov had asked for.
+Alexei did not sleep in the computer lab. Alexei reread the assignment on Tuesday evening, alone in Room 314 — Dmitri was out, the porcelain cosmonaut was keeping its counsel, and from upstairs the guitar student had moved on to a second chord that bore no relation to the first. He sat with his folder squared on the desk and thought about what, specifically, Burov had asked for.
 
 *A program that passes a conversation test with a human judge.*
 
@@ -100,6 +100,8 @@ Outside the lecture hall Dmitri punched Alexei, once, on the arm — gently, for
 
 "It's on the record."
 
-They walked back toward the dorm in a light cold rain. Somewhere on the network, in a log nobody would ever look at, the route the judge's packets had taken that morning was preserved, routed through two student terminals on a subnet that should not, strictly speaking, have been able to talk to each other. The subnet connection had been set up by a different student three years earlier and never taken down.
+They walked back toward the dorm in a light cold rain that had turned the concrete paths dark and put a shine on the leaves of the uniformly aged trees. Dmitri had his collar up. Alexei did not. He had not noticed it was raining until they were already in it.
 
-Alexei did not think about that. There was no reason, yet, to think about it.
+Somewhere on the network, in a log nobody would ever look at, the route the judge's packets had taken that morning was preserved, routed through two student terminals on a subnet that should not, strictly speaking, have been able to talk to each other. The subnet connection had been set up by a different student three years earlier and never taken down.
+
+Alexei did not think about that. There was no reason, to think about it.

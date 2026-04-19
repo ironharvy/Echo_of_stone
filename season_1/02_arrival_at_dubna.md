@@ -20,7 +20,7 @@ Passes: draft (beats) -> expansion (bureaucratic texture, Dmitri's voice, cosmon
 
 Dubna at the end of August had the look of a place built for a purpose no one had entirely explained to it. The streets were too wide for their traffic. The trees were tall and confident and uniformly the same age, planted some decade by someone with a plan that had presumably worked. Between the apartment blocks you could see a long stretch of river and beyond it the low pale roofs of the institute, and between the institute and everything else a great deal of sky.
 
-Alexei got off the train with two bags and a folder. The folder contained every document the university had asked for, plus three they had not asked for but that his mother had included *in case*. He had already, on the platform, opened the folder twice to make sure the documents had not evaporated.
+Alexei got off the train with two bags and a folder. The platform smelled of diesel and warm metal, and the air had a quality he could not name — thinner, maybe, or just less used, the way air gets when a town has more sky than it knows what to do with. A pigeon regarded him from the ticket booth railing with the disinterest of a civil servant between shifts. The folder contained every document the university had asked for, plus three they had not asked for but that his mother had included *in case*. He had already, on the platform, opened the folder twice to make sure the documents had not evaporated.
 
 The dorm was a concrete building the color of concrete. A woman behind a window who was not listed anywhere in his paperwork took his paperwork, wrote something on a different piece of paper, and handed him a key.
 
@@ -38,7 +38,7 @@ The dorm was a concrete building the color of concrete. A woman behind a window 
 
 "The elevator."
 
-He climbed.
+He climbed. The stairwell was the same color as the building — that particular Soviet beige that was not a choice so much as an absence of one. Each landing had a window the size of a newspaper, and through them the light came in already tired. Someone had wedged a matchbook under the second-floor fire door to keep it from closing. It had been there long enough to flatten.
 
 Room 314 had one window, two beds, two desks, two wardrobes, and a smell that was mostly paint and faintly cabbage. The floor had been mopped recently enough that in the corner a small island of damp still held. On the windowsill, facing out, sat a porcelain cosmonaut the size of a hand. Sun-faded to the color of weak tea on one side, still white on the other. A hairline crack ran up the visor. Nobody in the current room list was responsible for it. It had the air of something that had survived several tenants by virtue of not being worth the effort to throw out.
 
@@ -90,7 +90,9 @@ When their turn came, the woman examined Alexei's folder with the care of someon
 
 She stamped something. She stamped it again, in a slightly different place, because the first stamp had been insufficiently convincing. She handed him back a thinner folder than the one he had given her, which was, he gathered, a kind of victory.
 
-In the cafeteria that evening they ate something the menu insisted was beef. It was possibly beef. It was certainly a color.
+The cafeteria was a long room with fluorescent lights that made everyone look mildly ill and a steam counter that fogged the windows closest to it. Trays clattered. Conversation came in waves — first-day voices, pitched higher than they would be by October.
+
+They ate something the menu insisted was beef. It was possibly beef. It was certainly a color.
 
 "This is fine," said Dmitri, around a mouthful. "This is honestly fine. My grandfather ate worse."
 
@@ -99,6 +101,8 @@ In the cafeteria that evening they ate something the menu insisted was beef. It 
 "And he ate worse. The bar is on the floor. We're above the bar. Look at us. Thriving."
 
 Alexei ate. He ate more than he thought he would, in fact, because once he had started the act of eating his body had made a number of decisions without his participation.
+
+Outside, the campus had settled into the blue half-light that comes when a day ends but no one has turned the streetlamps on yet. They crossed the courtyard without talking, which was unusual for Dmitri and therefore a kind of compliment to the evening.
 
 Back upstairs, Dmitri tossed his jacket across his desk, emptied half his bag in three gestures, kicked his shoes off in two different directions, and opened the middle drawer of his wardrobe to shove a shirt in. The drawer did not quite go all the way back when he pushed it. It hung in its track with about two centimeters of gap.
 

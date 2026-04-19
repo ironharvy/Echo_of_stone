@@ -26,13 +26,13 @@ He needed compute. The lab had some. The lab's compute was shared across three o
 
 JINR had compute.
 
-JINR had, specifically, a small batch of servers in a building two streets away that was used for physics simulations in the early morning hours and idled, embarrassingly, for most of the afternoon. A friend of Alexei's — a fourth-year named Pavel, computer science — had, two years earlier, written a small scheduler that let interested students run jobs on that idle compute in the afternoons. You filled out no form. You sent Pavel an email. Pavel added your username to a file, and the jobs would run.
+JINR had, specifically, a small batch of servers in a building two streets away — a low concrete block with no signage, the kind of building that does not invite visitors and does not require them, a building whose purpose could only be guessed at from the number of cables entering its roof. The servers were used for physics simulations in the early morning hours and idled, embarrassingly, for most of the afternoon. A friend of Alexei's — a fourth-year named Pavel, computer science — had, two years earlier, written a small scheduler that let interested students run jobs on that idle compute in the afternoons. You filled out no form. You sent Pavel an email. Pavel added your username to a file, and the jobs would run.
 
 That was the formal part.
 
 The informal part was that the connection between the robotics lab's network and the JINR compute cluster was already open, because it had been opened a long time before for a different reason and had never been closed.
 
-In a rack room in the basement of Building Four, behind a cable-tidy panel that hadn't been moved in a decade, there was a small fibre link joining two subnets that, on any current network diagram, had no business touching. A printed label, yellowed and faintly curling at the corners, was taped to the cable tray beside it.
+In a rack room in the basement of Building Four — a windowless room kept at sixteen degrees by a ventilation system that sounded like a man breathing through a towel, the air tasting faintly of dust and warm plastic — behind a cable-tidy panel that hadn't been moved in a decade, there was a small fibre link joining two subnets that, on any current network diagram, had no business touching. A printed label, yellowed and faintly curling at the corners, was taped to the cable tray beside it.
 
 PROJECT ARIADNE — DO NOT UNPLUG — Yu. Tarasov — '03
 
@@ -64,7 +64,7 @@ In Building Four, in the rack room, the cable labeled *DO NOT UNPLUG* did what i
 
 Nobody was looking.
 
-Alexei, pleased with the improvement in the balance controller, packed up his laptop, turned off the lab light, and went home.
+Alexei, pleased with the improvement in the balance controller, packed up his laptop, turned off the lab light, and went home. The evening was cold and clear and entirely ordinary — the kind of evening that did not feel like it contained anything that would need to be remembered.
 
 The statue remained standing in the dark.
 

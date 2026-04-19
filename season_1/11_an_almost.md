@@ -17,9 +17,9 @@ They worked adjacent for a whole autumn semester without being friends, exactly.
 
 She wore a thin silver bracelet on her left wrist. A single red bead. He noticed, without thinking about why he noticed, that it was almost the bracelet he had watched on Julia's wrist for seven years and was not.
 
-In March she asked him if he wanted to see something, and he said yes before he had decided to, and they walked to a small gallery two bus stops away where a woman Katya knew was showing drawings — pencil, mostly, large, ungentle. They walked around the room without talking. Katya stopped in front of one drawing — a face with half the features erased — and stood there for a full minute, which was long enough that Alexei felt, obscurely, that the minute was also addressed to him. He did not look at her. He looked at the drawing. He could feel her in his peripheral vision the way one feels weather.
+In March she asked him if he wanted to see something, and he said yes before he had decided to, and they walked to a small gallery two bus stops away where a woman Katya knew was showing drawings — pencil, mostly, large, ungentle. The gallery was one room, white walls, wooden floor, the kind of quiet that happens when everything in the room is asking you to look. They walked around without talking. Katya stopped in front of one drawing — a face with half the features erased — and stood there for a full minute, which was long enough that Alexei felt, obscurely, that the minute was also addressed to him. He did not look at her. He looked at the drawing. He could feel her in his peripheral vision the way one feels weather.
 
-Afterward they walked along the embankment. It was cold and the light was going that specific bluish color the Volga gets in late winter when it is pretending to be ice without yet committing. She walked with her hands in her pockets, and he walked with his, and there was a length of silence that was not awkward, which for Alexei was almost a new weather system.
+Afterward they walked along the embankment. The stone wall was low and old and had been warmed by the day just enough to hold a ghost of it. Bare birches lined the path, their branches fine as pencil lines against the sky. It was cold and the light was going that specific bluish color the Volga gets in late winter when it is pretending to be ice without yet committing. She walked with her hands in her pockets, and he walked with his, and there was a length of silence that was not awkward, which for Alexei was almost a new weather system.
 
 "You don't talk much," she said, not as a complaint.
 
@@ -77,7 +77,7 @@ The sentence arrived in his head whole, in Julia's voice, at a volume he had not
 
 He kept walking.
 
-On the bus home he sat by the window with his face against the cold glass and did not look at the other passengers, and he thought, in the quiet mechanical tone of his morning self: *I will call her. On Monday I will call her. I will say I was tired. I will say I would like to try again.*
+On the bus home — half-empty, the overhead lights making the windows into mirrors — he sat with his face against the cold glass and did not look at the other passengers, and he thought, in the quiet mechanical tone of his morning self: *I will call her. On Monday I will call her. I will say I was tired. I will say I would like to try again.*
 
 He did not call her on Monday.
 
@@ -89,7 +89,7 @@ In class on Thursday Katya smiled at him the same as always and asked, briefly, 
 
 The almost closed. It closed cleanly, without injury, the way a door closes when nobody is standing in it.
 
-In the lab corner that evening, working late, he built a hand. Five fingers. Every joint articulated. He spent three hours on the thumb alone. When he was done he set it on the bench next to the half-finished arm and looked at it. It looked, from a certain angle, like a hand on the point of reaching.
+In the lab corner that evening — the rest of the lab dark, his bench lamp the only light, the building quiet enough that he could hear the transformer in the wall — he built a hand. Five fingers. Every joint articulated. He spent three hours on the thumb alone. When he was done he set it on the bench next to the half-finished arm and looked at it. It looked, from a certain angle, like a hand on the point of reaching.
 
 He did not attach it. He put it in a drawer. He closed the drawer twice.
 

@@ -20,7 +20,9 @@ A water pipe behind the hallway wall — hidden by a thin wooden panel that hid 
 
 Alexei was standing near the coats because standing near the coats was the closest thing to standing outside. Dmitri was in the kitchen laughing loudly at something that was, Alexei could tell from the rhythm of the laughter, not actually funny.
 
-Mikhail drifted out of the living room with a glass in his hand and stopped, not in front of Alexei, but next to him, facing the same direction, as if they had been at the same bus stop for half an hour.
+From the living room a voice rose suddenly over the others — *"...it's just pattern-matching, Kolya, it's a parlor trick, it isn't* intelligence *..."* — and the answering voice was too low to catch, and the room absorbed both back into its general noise.
+
+Mikhail drifted out of that room a moment later with a glass in his hand and stopped, not in front of Alexei, but next to him, facing the same direction, as if they had been at the same bus stop for half an hour.
 
 Alexei had seen him before. Older student. Always at the edge of things. One of those people universities accumulate rather than admit.
 
@@ -40,15 +42,23 @@ Alexei had seen him before. Older student. Always at the edge of things. One of 
 
 Alexei did not know what to say to that. Mikhail did not appear to require that he say anything. He drank from his glass — not a sip, a check-in, as if testing that it was still there — and continued facing the coats.
 
-"You know what I've been thinking about," he said.
+"They're right, in there," he said, tilting his head vaguely toward the living room. "It fakes the pattern. It's a parlor trick."
 
-"No."
+"It wasn't really—"
 
-"We keep acting like *me* is a body."
+"I'm not arguing with them. I'm agreeing. Up to the place they stop thinking."
 
 The pipe knocked.
 
-"It's not," Mikhail said. "It's a pattern. The body is just what the pattern runs on. A kind of — substrate." He said the word like he was trying it out. "And patterns, Alyosha. Patterns can move."
+"They stop at: *it only fakes the pattern, therefore it's small*. I don't know why they stop there. The pattern is the thing. The pattern was always the thing."
+
+A pause. Alexei opened his mouth and closed it again.
+
+"We keep acting like *me* is a body," Mikhail said.
+
+"I—"
+
+"It's not. It's a pattern. The body is just what the pattern runs on. A kind of — substrate." He said the word like he was trying it out. "And patterns, Alyosha. Patterns can move."
 
 "I'm not—"
 

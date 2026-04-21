@@ -5,12 +5,17 @@ Skill: write-story, Stage 9. Scene: #9 Procuring Components.
 Enhancers: Track A release valve via comedy; workaround-culture
 setup continues toward #14; warm stretch emotional curve; canonical
 supplier dialogue preserved verbatim; Dmitri's "They'll give us ten
-years for this motor" preserved. Random detail TRIGGERED —
-category: quirky background element. Detail: the supplier's back
-shelf holding a decade of unclaimed student thesis prototypes —
-a graveyard of half-robots, skeletal arms, a legless quadruped
-with no head. World-building and quietly thematic (the fate
-Alexei's statue will avoid only because he commits).
+years for this motor" preserved. SUBSTRATE SEED: neural processing
+boards from machine intelligence lab clearout — Alexei acquires them
+on instinct; provenance (Burov's old research) unstated but
+discoverable in S2; boards become the statue's local processing
+substrate, paid off in #14 when they handle the control loop but
+need JINR augmentation for the full sensor suite. Random detail
+TRIGGERED — category: quirky background element. Detail: the
+supplier's back shelf holding a decade of unclaimed student thesis
+prototypes — a graveyard of half-robots, skeletal arms, a legless
+quadruped with no head. World-building and quietly thematic (the
+fate Alexei's statue will avoid only because he commits).
 -->
 
 The supplier's name was Grisha. The supplier's shop did not have a name. It was in a low brick building behind the Dubna bus terminal, in the part of town that the town had stopped maintaining in the eighties and had, since then, merely tolerated. The street to get there ran past a shuttered kiosk, a yard full of concrete pipe segments stacked like a giant's macaroni, and a dog that was either stray or merely philosophical about property.
@@ -78,6 +83,18 @@ Grisha looked at him the way a plumber looks at someone who has asked whether wa
 Dmitri leaned toward Alexei. "We are cutting through bureaucracy," he said, with the solemnity of a man narrating his own heist film. "This is practically civil disobedience."
 
 "This is shopping," Grisha said.
+
+While Grisha was pulling the servo crate, Alexei noticed a smaller box on the same shelf — flat circuit boards in anti-static bags, maybe fifteen of them, stacked like grey postcards. He picked one up and turned it over. Neural processing accelerators. Old architecture — ten years, maybe more — but well-made. The kind of board designed by someone who expected it to outlast the project it was built for.
+
+"Those," Alexei said.
+
+Grisha glanced over. "Machine intelligence lab. They cleared out — new grant, new hardware. I got two boxes. The other one a PhD student from Moscow took last year. These, nobody wants."
+
+"How much."
+
+"For those? Take them. They've been sitting here longer than you've been at university."
+
+Alexei took four. He did not yet know what he would do with them. He knew only that they were the right kind of thing, in the way that the bearings were the right size — a recognition that preceded the reason for it.
 
 They paid for the metro servos and for a box of miscellaneous bearings that Alexei, on instinct, had selected because they were the right size and also because Grisha, watching him choose them, had looked very faintly approving, and approval from Grisha, Alexei intuited, had a currency of its own.
 

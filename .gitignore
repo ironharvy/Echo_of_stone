@@ -12,3 +12,6 @@ Thumbs.db
 # Misc
 *.tmp
 *.bak
+
+# Build output (see tools/build_book.py)
+book.html

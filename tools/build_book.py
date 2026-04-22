@@ -223,6 +223,7 @@ def build(src_dir: Path, out_path: Path) -> None:
     book_title = "Echo of Stone"
     subtitle = src_dir.name.replace("_", " ").title()
 
+    out_path.parent.mkdir(parents=True, exist_ok=True)
     doc = f"""<!doctype html>
 <html lang="en">
 <head>

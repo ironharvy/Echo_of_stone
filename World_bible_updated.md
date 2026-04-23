@@ -46,6 +46,8 @@ The technology becomes known. Corporations want it. Ethics committees debate it.
 
 **Tonal goal**: This should feel like "the future we're going to have soon"â€”technology just beyond current capability, with focus on social/economic/ethical consequences rather than mechanisms.
 
+**Possibility (to explore)**: Once Elena's body has been modified enough to read as human at a glance, a "foreign/exchange student" cover could be used to let her move through the world. JINR/Dubna plausibly hosts international students, so an unfamiliar accent, gaps in local knowledge, and no traceable family would read as exchange-student rather than uncanny. Tonally this should be a *pressure* she has to live under (passing, visa/paperwork risk, resentment at hiding what she is) rather than a comfortable disguiseâ€”so the statue-ness stays central and the cover is something she earns, not escapes into.
+
 ---
 
 ## Characters
@@ -309,6 +311,7 @@ The small group who knows Elena is in the statue. Alexei is presumably part of t
 - Mikhail's exit (academic leave? hospitalization? drift?)
 - The trusted circle composition
 - Season 3 corporate/institutional antagonists
+- Season 3: whether Elena passes as a foreign/exchange student once she looks human enough (noted above)
 - Ownership question: who does Elena "belong" to legally?
 - Previous failed experiments before Elena
 - How Alexei's two selves relate (cooperate? leave notes? share time?)
